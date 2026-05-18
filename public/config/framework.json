@@ -1,0 +1,174 @@
+{
+  "project": "MRCD Framework",
+  "version": "1.0",
+  "triggers": [
+    {
+      "id": "trigger_alpha",
+      "type": "text",
+      "title": "Look at a snapshot of everyday life",
+      "content": "Take a look at that. Perfectly cooked, beautifully presented. It's the kind of meal that makes your mouth water before you even pick up a fork. It looks completely clean, entirely separated from anything resembling a heartbeat. Let's be entirely real for a second: when you see that sizzle, does your brain honestly connect it to a living animal with a face, or do you just see a great dinner?",
+      "next_node": "q1"
+    },
+    {
+      "id": "trigger_beta",
+      "type": "text",
+      "title": "Face the raw numbers",
+      "content": "Over the last few decades, the number of animals killed to feed an average family of four every single year skyrocketed from 56 to 132. That is a really heavy, raw number. When you're ordering your favorite food or scanning the grocery aisles, do you actively try to push that reality into a dark corner of your mind, or are you genuinely cool with it?",
+      "next_node": "q1"
+    },
+    {
+      "id": "trigger_gamma",
+      "type": "text",
+      "title": "Navigate a social situation",
+      "content": "Picture this: You’re out at a great dinner party, laughing, having a good time. You’ve got a plate of ribs right in front of you. Then, the person sitting next to you casually mentions they’re a strict vegan for ethical reasons. Suddenly, you might feel a tiny bit self-conscious about your own plate. What’s your immediate, unfiltered gut reflex when a moral rebel walks into the room?",
+      "next_node": "q1"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q1",
+      "stage": "prevention",
+      "title": "The Information Filter",
+      "question": "You’re scrolling through your phone and a headline flashes from an investigative piece: 'Undercover footage reveals the reality inside our state's commercial pork facilities.' What is your immediate, instinctive move?",
+      "options": [
+        {
+          "text": "I keep scrolling immediately. I really don't need that kind of graphic content or negativity in my feed right now.",
+          "next_node": "q2",
+          "axis": "PA",
+          "value_weight": 1,
+          "feedback": "Totally fair. Sometimes you just don't have the emotional bandwidth for a heavy report, so looking away protects your peace of mind."
+        },
+        {
+          "text": "I pass it by, reminding myself that I only buy organic, humane, or local stuff anyway.",
+          "next_node": "q2",
+          "axis": "PA",
+          "value_weight": 1,
+          "feedback": "I get it. Trusting a premium label acts like a protective shield, keeping your personal choices safe from the bigger systemic issues."
+        },
+        {
+          "text": "I read it, feel absolutely terrible, and quietly swear off pork for at least a couple of days.",
+          "next_node": "q2",
+          "axis": "BSA",
+          "value_weight": 1,
+          "feedback": "I hear you. You feel the weight of it immediately, and making a quick, short-term adjustment helps bring the internal temperature down."
+        },
+        {
+          "text": "I click it and read the whole thing. If I'm going to eat it, I should be willing to look at the reality of how it got here.",
+          "next_node": "q2",
+          "axis": "BSA",
+          "value_weight": 1,
+          "feedback": "That takes courage. You're choosing to drop the guard and let the facts sink in, even if it feels incredibly uncomfortable."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "stage": "prevention",
+      "title": "The Linguistic Disconnect",
+      "question": "Let's think about chicken nuggets. They're golden, uniform, and incredibly convenient. When you're eating one, do you ever actively pause to imagine the live bird it came from?",
+      "options": [
+        {
+          "text": "Honestly, never. It’s just food on a plate to me. A nugget is a nugget, not a bird.",
+          "next_node": "q3",
+          "axis": "PA",
+          "value_weight": 1,
+          "feedback": "And that's exactly how the system is designed. Using words like 'nugget' or 'poultry' helps separate the meal from a heartbeat."
+        },
+        {
+          "text": "I know what it is logically, but I deliberately try not to picture feathers or farms while I'm chewing.",
+          "next_node": "q3",
+          "axis": "PA",
+          "value_weight": 1,
+          "feedback": "Grounded approach. You're consciously keeping the curtain pulled shut so you can enjoy your lunch in peace."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "stage": "prevention",
+      "title": "The Moral Rebel Reflex",
+      "question": "Think about that friend or creator who constantly posts about animal welfare, environmental impact, and plant-based living. What's your genuine gut reaction when they pop up?",
+      "options": [
+        {
+          "text": "Frankly, they’re pretty preachy and annoying. It feels like they just want to look morally superior to everyone else.",
+          "next_node": "q4",
+          "axis": "PA",
+          "value_weight": 1,
+          "feedback": "It's tough when someone feels preachy. Deflecting their tone is a natural way to protect yourself from feeling judged by them."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "stage": "prevention",
+      "title": "The Quantitative Underreport",
+      "question": "If someone asked you to estimate exactly how much meat and animal products you consume in a typical week, how would you frame your answer?",
+      "options": [
+        {
+          "text": "I'd probably frame it as 'hardly any.' I like to think of myself as basically a flexitarian, even if I eat meat regularly.",
+          "next_node": "interstitial_escape",
+          "axis": "PA",
+          "value_weight": 1,
+          "feedback": "Very human move. Curation makes us feel like we're already doing our part, easing the internal moral weight."
+        }
+      ]
+    },
+    {
+      "id": "interstitial_escape",
+      "stage": "prevention",
+      "title": "Advanced Gating Interstitial",
+      "question": "Look at that network. Smooth, steady, completely calm. Your mind's prevention shield is working exactly as intended. By navigating around the triggers, using everyday language, and keeping the structural reality at a distance, you've kept any real discomfort from knocking on your door. You're perfectly positioned to get your profile right now without diving into the heavy stuff. But before we finish up, I want to give you a choice:",
+      "options": [
+        {
+          "text": "Show me my profile based on my current path",
+          "next_node": "results",
+          "axis": "PA",
+          "value_weight": 0,
+          "feedback": "Calculating your profile..."
+        },
+        {
+          "text": "Drop the shield and let me explore the deeper questions",
+          "next_node": "q5",
+          "axis": "PRA",
+          "value_weight": 0,
+          "feedback": "Let's dive into the reduction mechanisms."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "stage": "reduction",
+      "title": "Denial of Animal Mind",
+      "question": "It's a fascinating scientific reality that pigs show cognitive abilities that match or even exceed companion animals like dogs. When you're face-to-face with a meal like bacon, how does your mind process that level of awareness?",
+      "options": [
+        {
+          "text": "Honestly, I don't quite buy into those science reports.",
+          "next_node": "results",
+          "axis": "PRA",
+          "value_weight": 1,
+          "feedback": "Minimizing capacity is a classic defense."
+        }
+      ]
+    }
+  ],
+  "personas": [
+    {
+      "id": "persona_willful_ignorer",
+      "title": "The Willful Ignorer",
+      "description": "Your mind’s primary line of defense relies on a beautifully simple strategy: out of sight, out of mind. You excel at filtering out moral friction before it can even spark an uncomfortable emotion.",
+      "conditions": {
+        "dominant_axis": "PA",
+        "min_score": 4
+      }
+    },
+    {
+      "id": "persona_adapter",
+      "title": "The Behavioral Adapter",
+      "description": "When the raw realities of animal agriculture pierce your awareness, your mind refuses to deploy comforting illusions or look away.",
+      "conditions": {
+        "dominant_axis": "BSA",
+        "min_score": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1738 @@
+Contents lists available at ScienceDirect
+Appetite
+journal homepage: www.elsevier.com/locate/appet
+Meat-related cognitive dissonance: A conceptual framework for
+understanding how meat eaters reduce negative arousal from eating animals
+Hank Rothgerber
+Bellarmine University, 2001 Newberg Rd, Louisville, KY, 40205, USA
+ARTICLE INFO
+Keywords:
+Meat eatingCognitive dissonance
+Dissonance reduction
+Attitudes toward meatABSTRACT
+Meat eaters encounter a con ﬂict between their eating behavior and their a ﬀections toward animals. Because this
+“meat paradox ”highlights discrepancies between behavior and various ideals, a number of experts have focused
+on cognitive dissonance theory to explain the psychology of eating meat. The present work presents a framework
+to understand the phenomenon of meat-related cognitive dissonance (MRCD), herein de ﬁned as occurring when the
+dissonant state involves recognition of one's behavior as a meat eater and a belief, attitude, or value that thisbehavior contradicts. The proposed framework explains how individuals attempt to prevent this form of dis-
+sonance from occurring (e.g., avoidance, willful ignorance, dissociation, perceived behavioral change, and do-gooder
+derogation ) and how they reduce it once it has occurred in the form of motivated cognitions (e.g., denigrating
+animals, o ﬀering pro-meat justi ﬁcations, or denying responsibility for eating meat ). The MRCD framework posits that
+which of a possible ﬁfteen outlets is chosen to prevent and reduce the moral guilt associated with eating meat
+depends on (a) the aspect of meat consumption that produces MRCD; (b) the motivation created by MRCD; (c)
+individual di ﬀerences in gender, values, a ﬃnity toward animals and meat, and exposure to animals; and (d)
+culture. Implications of the framework for those seeking to curtail meat consumption are discussed and im-portant questions are highlighted for theorists to resolve.
+“The shift from traditional hunting to progressively more and more
+intensive systems of animal exploitation has been accompanied by
+the evolution of increasingly sophisticated methods of evading guilt
+…we are confronted with a hideous moral dilemma …our highly
+developed social awareness allows us to understand and empathizewith animals …it also allows us to use animals and manipulate
+them to our own advantage. ”(Serpell, 1986, pp. 209– 210)
+The recent decade has witnessed a boom in research investigating
+the psychology of eating meat, as a diverse set of contingents havebecome interested in how meat eaters are able to justify and rationalizetheir eating behavior in the face of external threats. Animal rights
+proponents, environmentalists, and others have sought to identify the
+psychological underpinnings behind the maintenance of meat con-
+sumption, with the aim of countering such resistance in more e ﬀective
+inﬂuence campaigns. Theorists have viewed meat eating as a compel-
+ling case of how individuals make moral decisions and rationalize
+morally problematic behavior, as meat has come to be framed. It also
+provides an opportunity to examine how individuals negotiate in-
+trapersonal con ﬂicts–as noted researcher Paul Rozin once commented,
+“meat should be of special interest to psychologists, because it is a
+quintessential example of the interesting and important state ofambivalence ”(2007, p. 404).
+This ambivalence, or what some legal scholars have more strongly
+termed “moral schizophrenia ”(Francione, 2004)o r “moral hypocrisy ”
+(Sunstein, 2004), is manifested in the frequent misalignment between
+expressed attitudes and behavior toward animals. Numerous studiesshow that while individuals want farmed animals to be humanely
+treated, they simultaneously eat meat derived almost entirely from
+factory farms documented for their abysmal treatment of animals (e.g.,
+Clark, Stewart, Panzone, Kyriazakis, & Frewer, 2016 ;Knight,
+Nunkoosing, Vrij, & Cherryman, 2003 ;Miele, 2010, pp. 1 –16;Te Velde,
+Aarts, & Van Woerkum, 2002 ;Vanhonacker, Verbeke, Van Poucke, &
+Tuyttens, 2007). That individuals love animals and wish them no harmyet simultaneously eat them has been termed the meat paradox (Bastian,
+Loughnan, Haslam, & Radke, 2012 ;Loughnan, Bastian, & Haslam,
+2014 ;Loughnan & Davies, in press; Loughnan, Haslam, & Bastian,
+2010 ). Because this paradox highlights discrepancies between behavior
+and various ideals, an increasing number of experts have focused on
+cognitive dissonance theory (CDT) to explain the psychology of eating
+meat (e.g., Bastian & Loughnan, 2017 ;Rothgerber, 2014a ;Rothgerber,
+2019,
+in press; Rothgerber, 2019b).
+CDT is widely held to involve a three-step process: an inconsistency
+generates an aversive arousal (i.e., the cognitive dissonance state) that
+https://doi.org/10.1016/j.appet.2019.104511
+Received 14 May 2019; Received in revised form 3 November 2019; Accepted 4 November 2019E-mail address: hrothgerber@bellarmine.edu .Appetite 146 (2020) 104511
+Available online 07 November 2019
+0195-6663/ © 2019 Elsevier Ltd. All rights reserved.
+Twill then motivate reduction strategies ( Vaidis & Bran, 2018 ). The
+present work deﬁ nes the phenomenon of meat-related cognitive dis-
+sonance (MRCD) as occurring when the arousal is speci ﬁcally related to
+one's status as a meat eater; that is, the cognitive dissonance state in-
+volves recognition of one's behavior as a meat eater and a belief, atti-
+tude, or value that this behavior contradicts, such as the aforemen-
+tioned love of animals. For individuals who care about the well-being of
+animals, the question may be economically modeled as a trade-o ﬀbe-
+tween the utility gained from eating meat and the psychological dis-utility implied by their awareness of the su ﬀering in ﬂicted upon farm
+animals ( Hestermann, Le Yaouanq, & Treich, 2018 ;Rabin, 1994 ). Al-
+though related to the meat paradox, MRCD refers to a more encom-
+passing phenomenon; that is, MRCD can also be experienced over
+concerns that eating meat is harmful to the environment or to personal
+health, but in keeping with the literature on the meat paradox, here I
+largely focus on animal welfare-related triggers and cognitions.
+The goal of the current work is to o ﬀer a framework to better un-
+derstand MRCD, in particular (a) explaining how individuals attempt to
+prevent this dissonance from occurring and how they reduce it once it
+has occurred, i.e., what Serpell (1986) referred to in the opening quote
+as the “sophisticated methods of evading guilt, ”and (b) identifying
+what speci ﬁc factors may predict the popularity of these dissonance
+prevention and reducing mechanisms. Implications for those seekingsocial change are identi ﬁed as are important questions remaining for
+theorists to resolve.
+1. Overview of the MRCD framework and its propositions
+In developing the MRCD framework, the author drew upon classical
+dissonance theory but also borrowed insights from several theories
+describing mechanisms that enable individuals to act in immoral or
+non-normative ways: Bandura's (1990, 1999) theory of moral disen-
+gagement and Sykes and Matza ’s (1957) work on techniques of neu-
+tralization. Bandura suggested that while actions are typically governed
+by an individual's moral standards, there are processes that disengage
+these self-sanctions and allow for inhumane conduct. Sykes and Matza
+(1957) examined justi ﬁcations of deviant behavior (i.e., “techniques of
+neutralization ”) that allow disapproval from others or from violating
+internalized norms to be blunted in advance. The processes proposed bythese scholars from di ﬀerent disciplines converge on three basic guilt-
+reducing mechanisms enabling problematic behavior: (1) hiding oravoiding the injury, possibly by making the victim invisible; (2) de-
+nying one's role/responsibility in causing the harm; and (3) denigrating
+the victim.
+The present work also assimilates and elaborates on techniques
+identiﬁed by several authors who have explored the paradox of meat
+eating: Serpell (1986) , whose quote begins the article and who ﬁrst
+identiﬁed four “distancing devices ”by
+ which meat eaters separate
+themselves from the morally dubious consequences of eating meat;Rothgerber (2014a) , who more recently articulated eight mechanisms
+to mitigate MRCD; and Joy (2011) , who developed the notion of
+carnism, a dominant ideology conditioning people to consume certain
+animal products and supported by a variety of defense mechanisms and
+mostly unchallenged assumptions. This suggests that much of the time,
+eating meat is not a troubling, encumbering behavior and that in-
+dividuals are able to co-exist with signi ﬁcant contradictions arising
+from their eating behavior on a daily basis. The current frameworkoﬀers that there are a number of mechanisms to suppress the moral
+inconsistencies inherent in eating certain animals and that it is onlywhen some situation or event disrupts the invisibility of carnism or callseating meat into question that individuals will partake in what Joy
+(2011) refers to as defense mechanisms, i.e., what the present work
+considers MRCD reduction mechanisms.
+Critical assumptions of the MRCD framework are rooted in the in-
+ﬂuential psychological theory of motivated cognition ( Kunda, 1990 ).
+There is considerable evidence that people are unwittingly more likelyto arrive at conclusions that they desire through a biased process of
+memory search and belief construction ( Kunda, 1990). Although beliefs
+are often motivated to satisfy psychic or instrumental needs ( Bénabou &
+Tirole, 2016), individuals attempt to be rational and to construct a
+justiﬁcation of their preferred conclusion that would persuade others
+(Kunda, 1990 ). Motivated reasoning also applies to situations which
+feature morally problematic behavior: Individuals will adopt self-ser-
+ving beliefs when facing moral dilemmas to maintain a sense of having
+a moral self-concept ( Barkan, Ayal, & Ariely, 2015 ;Shalvi, Barkan, &
+Ayal, 2015 ). These justi ﬁcations may occur before an event, lessening
+the anticipated threat to one's moral self by deﬁ ning questionable be-
+haviors as excusable, or after an event, lessening the experienced threatto the moral self by compensating for the committed violation ( Barkan
+et al., 2015 ;Shalvi, Gino, Barkan, & Ayal, 2015 ). Although this dis-
+tinction between anticipated and experienced dissonance may not be
+critical in the case of such a frequently occurring behavior as eating
+meat, the moral dissonance research portends the assertion that beliefs
+about farm animals and meat eating are not objective but instead are
+motivated, and hence susceptible to ﬂuctuation. A general implication
+of the dissonance perspective is that the very act of consuming meatdetermines perceptions related to meat and to animal welfare.
+Fig. 1 presents a general outline of the MRCD framework. As shown
+on the left side of Fig. 1, the framework speculates that MRCD is ty-
+pically experienced by certain situational triggers, such as being re-minded of farm animals, being exposed to information about farm an-
+imal welfare, connecting meat to these farm animals, recognizing
+oneself as an eater of these animals, or being in the presence of vege-
+tarians, who make the above reminders salient. The framework pro-
+poses that individuals will be motivated to use avoidance, willful ig-
+norance, dissociation, perceived behavioral change, and do-gooder
+derogation to block MRCD from occurring. Research examining each of
+these tactics is reviewed. If individuals prevent these triggers from ever
+occurring, the framework postulates that their meat-eating behaviorwill be maintained with no further psychological justi ﬁcations or dis-
+tortions necessary.
+If these catalysts are unchecked though, the framework proposes
+that individuals will experience MRCD and its unpleasant arousal. Tocounter MRCD once it has occurred, the framework suggests that in-
+dividuals may change their behavior, or more likely, strategically dis-
+tort their perceptions to reduce the moral guilt associated with eating
+meat. These motivated cognitions are expected to focus on denigrating
+animals, o ﬀering pro-meat justi ﬁcations,
+ or denying responsibility for
+eating meat. Empirical evidence reviewing these strategies is con-sidered. An important implication of the framework is that the outcome
+is predicted to be quite di ﬀerent depending on which MRCD mechanism
+is adopted. In the case of behavioral change, reduced meat consumptionis expected to result and any ensuing MRCD ameliorated; when per-
+ceptual distortions are endorsed, the meat-eating behavior is not only
+expected to be maintained but strengthened, as increased psychological
+justiﬁcation has occurred, and individuals need to remain vigilant
+about preventing future MRCD.
+The MRCD framework posits that which outlet is chosen to reduce
+MRCD depends on (a) the aspect of meat consumption that producesMRCD; (b) the motivation created by MRCD; (c) individual di ﬀerences
+in gender, values, ideology, a ﬃnity toward animals and meat, and ex-
+posure to farm animals; and (d) culture. Current evidence pertaining to
+these hypothesized predictors of preferred perceptual strategy largely
+focus on individual di ﬀerences; hence, the discussion of these other
+factors remains largely speculative. The manuscript concludes with anexploratory discussion on implications of the framework for researchers
+and activists. It reviews research aimed at targeting certain prevention
+and reduction strategies, highlights a methodological implication of the
+framework, and discusses exogenous factors that have relevance for the
+framework, including the price of meat, the rise of plant-based meat
+substitutes, and the role of campaigns to increase the moral awareness
+of animal su ﬀering. It is suggested that each of these three factors mayH. Rothgerber Appetite 146 (2020) 104511
+2potentially increase negative arousal from eating meat and will subse-
+quently activate motivational processes to reduce this unpleasant cog-
+nitive dissonance state.
+2. Triggers of, and mechanisms to prevent MRCD
+Because MRCD is deﬁ ned as producing an unpleasant emotional
+state, a chief premise is that meat eaters will be highly motivated to
+avoid the experience in the ﬁrst place. Indeed, in Festinger ’s (1957)
+classic formulation of cognitive dissonance, one of the main postulateswas that individuals will actively avoid situations and information that
+would likely increase dissonance. The MRCD prevention mechanisms are
+designed to help the individual forget that they eat meat or that eatingmeat entails animal su ﬀering. These strategies have been termed
+“apologetic ”(Rothgerber, 2013) and essentially seek to avoid re-
+cognizing and acknowledging that a behavior and belief are at tension.
+The individual acts ambivalently, without rationalizations, and merely
+attempts to proceed without confronting the issue. Avoidance of dis-
+sonance-producing stimuli precludes the need for behavioral or psy-
+chological amendments to diet, which could prove stressful and costly.
+Thus, it is proposed that the ﬁrst strategy to eliminate MRCD is to
+avoid and respond to triggers that threaten to bring the tension to
+consciousness. Although there are a multitude of such situations that
+can threaten meat eaters and remind them that their behavior is under
+question, and such events can vary in their intensity, triggers are con-
+sidered to fall into one of ﬁve general categories: (1) exposure to in-
+formation about the treatment of factory-farmed animals; (2) remindersthat meat originates from an animal; (3) admission that one eats meat;
+(4) admission that one eats meat from an animal that was harmed; and
+(5) the presence of vegetarians. Triggers and corresponding preventive
+mechanisms are considered in detail along with supporting evidence.
+2.1. Information exposure: avoidance and willful ignorance
+The MRCD framework espouses that there are two preliminary lines
+of psychological defense against exposure to the information needed to
+produce MRCD in the ﬁrst place. The initial psychological shield is
+avoidance ; that is, to avoid dissonance by refusing to acknowledge or
+think about eating meat or animal welfare. The sheer physical isolation
+of factory farms from the rest of society is one way that individuals areassisted in avoiding thoughts about the treatment of animals used forfood ( Plous, 1993; Serpell, 1986 ;Singer, 2002 ). As Bandura (1999)
+notes, harming others is made easier when their su ﬀering is not visible.
+Serpell (1986) labels his ﬁrst distancing device detachment and notes
+that this removal of animals from our moral concern is in part ac-complished by the lack of physical contact with them. Detachment also
+works in concert with concealment (Serpell, 1986 ), whereby farmed
+animals are kept in anonymous-looking, windowless buildings hiding
+them from public view. The invisibility continues as they are surrepti-
+tiously transported to slaughter, which is almost always concealed
+away from residential areas.
+Print and visual media also promote avoidance of the reality of meat
+production by socializing American children that meat originates from
+happy farm animals living in peaceful settings; as a result, children
+believe that farm animals are less likely to be unhappy relative to
+companion animals and wild animals ( Plous, 1993 ). Avoidance of
+MRCD has also been culturally enabled by institutions in Americansociety that make gaining more information about the welfare of farm
+animals nearly impossible, including legal guidelines protecting the
+privacy and secrecy of factory farms ( Foer, 2009). Finally, if individuals
+allow themselves exposure to information about farmed animals, socialpressure
+discourages spreading this knowledge to others –the very
+topic of factory farms is considered a taboo conversation ( Iacobbo &
+Iacobbo, 2006 ). In essence, avoidance has become a cultural norm
+protected by powerful institutions (see Bastian & Loughnan, 2017 ).
+Given these protections, it is not surprising that individuals are
+largely unaware of the treatment of animals that are eaten as meat.Majorities in the U.S. believe that farmed animals are treated humanely
+or well ( The Sentience Institute, 2017), and the majority of Europeans
+across several nations believe that animal welfare is “good, ”at least for
+cows ( Mayﬁeld, Bennett, Tranter, & Wooldridge, 2007 ); moreover, the
+majority of these European consumers believe that farmed animalwelfare is improving in their country ( Mayﬁeld et al., 2007 ;Miele,
+2010 , pp. 1– 16). Many consumers candidly admit that they are not as
+well informed about animal welfare issues as they wish to be ( Mayﬁeld
+et al., 2007 ), especially food production processes ( Kriﬂik & Yeatman,
+2005 ). Several interview studies have revealed that individuals are too
+ignorant of animal use procedures to reach informed opinions, or thatthey have a negative perception of the life of meat livestock without
+concrete knowledge of the circumstances in which these animals livedFig. 1. The MRCD framework.H. Rothgerber Appetite 146 (2020) 104511
+3(Knight & Barnett, 2008 ;Te Velde et al., 2002 ). Several studies in
+Australia have also emphasized widespread ignorance of routine prac-
+tices subjected to farmed animals ( Coleman & Toukhsati, 2006;
+Worsley, Wang, & Ridley, 2015 ). Meat eaters are particularly ignorant
+of the conditions faced by farm animals, displaying less knowledge than
+vegetarians of harsh farming practices commonly employed and un-
+derestimating the degree of su ﬀering in ﬂicted on livestock
+(Hestermann, Le Yaouanq, & Treich, 2018). This study's ﬁnding that
+meat eaters with greater education were as equally ignorant as those
+with less education suggests that meat consumption is not approached
+objectively where greater access to information impacts decisions.
+Rather, the MRCD framework would speculate that this ignorance is
+motivated, i.e., a willful ignorance designed to prevent individuals from
+experiencing aversive arousal from MRCD. In this sense, it may be in-terpreted as a second line of defense against exposure to information
+about farm animal welfare and may serve as the individual-level
+counterpart to the structural forces enabling avoidance of MRCD.
+Standard models of economics specify that consumers are advantaged
+when they receive information about the consequences of their actions,
+but here, knowledge of farm animal treatment increases the costs of
+eating meat by requiring greater self-deception to justify it
+(Hestermann, Le Yaouanq, & Treich, 2018 ). Evidence for willful ig-
+norance in the domain of farmed animal welfare is fairly limited butincreasing. In several investigations, interviewees explicitly claimed
+they did not know about farming practices and animal welfare because
+they wished to remain ignorant ( Knight et al., 2003), and in some cases,
+because they knew that such information would make it more emo-tionally di ﬃcult to purchase meat ( Knight & Barnett, 2008 ;Miele,
+2010 , pp. 1– 16). Te Velde et al. (2002) described a “functional ignor-
+ance, ”among their Dutch interviewees in that neither farmers nor
+consumers actively sought information concerning animal welfare be-cause both parties would be better o ﬀnot knowing too much. To some
+extent, such motivated ignorance is an e ﬀective barrier, as one study
+found that the less respondents knew about various animal use proce-dures, the more they supported these procedures ( Knight et al., 2003 ).
+Taking a decidedly more quantitative approach using cluster analysis,Onwezen and van der Weele (2016) found that 27 –28% of individuals
+displayed willful ignorance in the context of meat, deliberately ignoringinformation about the treatment of farmed animals.
+Overall, inhibiting thoughts of farm animals and their welfare from
+reaching consciousness appears to be a highly successful strategy for
+preventing MRCD from ever taking root. In one study, 67% of re-
+spondents indicated that they do not think about animal su ﬀering when
+they purchase meat ( Signicom, 1997 ). Of those who consider animal
+welfare to be highly important, only about half report thinking about it
+when purchasing meat ( Mayﬁeld et al., 2007 ). Consistently, studies
+have shown that participants report being willing to pay extra for an-imal welfare-friendly products, yet these products only capture a small
+share of the market ( Norwood, 2011 ;Roex
+ & Miele, 2005). Similarly,
+voters in California overwhelmingly rejected farming practices thatwere represented in products that at that time dominated the market
+(Norwood & Lusk, 2011 ). Elaborating on Hestermann, Le Yaouanq, &
+Treich, 2018 suggestion that the salience of the moral aspects of these
+decisions depends on the environment in which individuals make their
+decisions (e.g., grocery store vs. voting booth), one may add that
+avoidance has largely rendered consumer decision makers not con-
+scious of animal welfare when purchasing meat, in e ﬀect muting much
+MRCD.
+2.2. Reminders that meat originates from an animal: dissociation
+Meat eaters ’avoidance of thinking about eating meat or animal
+welfare is potentially challenged whenever they confront animal ﬂesh
+on their plate. The present framework asserts that individuals can also
+prevent MRCD by pretending that no animal is involved during meat
+consumption. This disconnect is accomplished by dissociating the animalfrom the food product. Even though they consume animal ﬂesh, a de-
+lusion suggesting otherwise is promoted. According to Adams (1990) ,
+one way that individuals render animals absent from their conscious-ness is to change language about them as food products. Words like
+bacon, hamburger, and sirloin become substitutes for the animal ﬂesh
+people consume allowing meat eaters to maintain the illusion that an-imals are not involved. The need for verbal concealment decreases the
+further the animal is from a human being, thus “chicken, ”and “ﬁsh”are
+called by their actual animal names ( Serpell, 1986 ).Plous (1993) dis-
+cusses a number of ways in which language depicts animals as in-
+animate (e.g., hunters do not kill animals, they “harvest ”them –see
+also, Serpell, 1986 ), including usage by the military and legal system.
+The United States Department of Agriculture (USDA) has helped people
+feel more comfortable about eating meat by referring to chickens, cows,
+and pigs as “grain-consuming animal units. ”AsBandura (1999) notes,
+such euphemistic labeling is often used to disguise objectionable ac-tivities.
+Supporting this dissociation strategy, many consumers do not like to
+think that meat comes from a live animal ( Mayﬁeld et al., 2007 ), and
+this explains why the more meat resembles the actual animal, in termsof being red, bloody, and fatty, the more individuals are disgusted by it
+(Kubberoed, Ueland, Tronstad, & Risvik, 2002a ). Pieces of meat that
+clearly remind the consumer that they were from an animal (e.g., eyes,tongues, brains, etc.) are unwillingly handled by consumers ( Kubberoed
+et al., 2002b ). Explicitly reminding shoppers about the animal origins
+of meat lead them to purchase less meat or prefer free range and or-
+ganic meat ( Hoogland, de Boer, & Boersema, 2005).
+Kunst and Hohle (2016) manipulated
+ dissociation experimentally
+by depicting meat as more rather than less processed, minced as op-
+posed to having a head, as advertised without a picture of an animal as
+opposed to with, in more euphemistic terms (harvest) than less
+(slaughter), and described in food terms (pork, beef) rather than as the
+animal (pig, cow). As expected, greater dissociation led to more will-ingness to eat the animal, and less empathy, perceived animal capacity,
+and disgust in eating the animal. Subsequent research showed that this
+eﬀect was moderated by cultural exposure to unprocessed meat ( Kunst
+& Haugestad, 2018 ). At least in certain cultures, therefore, ignoring the
+link between animals and meat serves to spare the individual from
+experiencing uncomfortable dissonance by making it seem as though no
+victim was involved.
+2.3. Admission that one is a meat eater: perceived behavioral change
+Theﬁrst two MRCD prevention tactics ultimately attempt to disrupt
+thoughts that meat eaters are bringing harm to animals. The framework
+contends that dissonance may also be prevented by convincing oneself
+that even if meat involves animals, the individual does not consume
+very much of it. This is in e ﬀect a tactic to suppress MRCD by pre-
+tending that the troubling behavior does not really apply to them. Inone study, when threatened with the prospects of watching a PETA
+documentary about meat production, women (but not men) reported
+eating less meat than did a control condition not expecting to watch
+such a documentary ( Rothgerber, 2019b ). As a substitute to actual
+change and in an e ﬀort to eliminate the belief “I eat meat ”despite
+evidence to the contrary, individuals strategically attempted to con-
+vince themselves and others that they avoid meat consumption. Also
+attesting to the motivated nature of self-report, three times as many
+Americans indicated that they had decreased meat consumption as
+opposed to increased it during the last three years ( Neﬀet al., 2018),
+and 54% expressed that they were attempting to reduce consumption of
+animal-based products ( The Sentience Institute, 2017 ), claims di ﬃcult
+to reconcile with a general pattern of increased meat consumption inthe U.S. as reported by the USDA.
+This perceived behavioral change strategy may be common and a ﬀect
+reported dietary identity: At least a dozen studies have documented
+that some people claim they are vegetarian but then simultaneouslyH. Rothgerber Appetite 146 (2020) 104511
+4acknowledge that they eat red meat, chicken, and/or ﬁsh (see
+Rothgerber, 2014b ). As an example, a survey of 10,000 American adults
+found that 60% of vegetarians admitted that they had eaten red meat,
+poultry, or seafood within the last 24 h ( Time/CNN/Harris Interactive
+Poll, 2002 ). It is clear that estimates of vegetarianism are predicated
+upon how vegetarianism is deﬁ ned, with self-identi ﬁcation yielding
+higher estimates than behavioral reports. Across several representativestudies in the U.S., approximately 7% self-identi ﬁed as vegetarian, yet
+when asked about their speci ﬁc eating habits, only somewhere between
+1 and 2.5% were strict vegetarians ( Maurer, 2010 ). Although some of
+this discrepancy may arise from genuine confusion about what de ﬁnes a
+vegetarian, from a dissonance perspective some of it may also re ﬂect
+wishful thinking designed to make oneself feel less guilty aboutharming animals, the environment, or personal health.
+2.4. Admission that one eats meat from an animal that was harmed: so-
+called humane meat eater
+The aforementioned strategies converge on muting thoughts about
+animals or that one eats animals. The MRCD framework also contendsthat individuals may embrace their meat consumption but prevent
+MRCD by emphasizing that the meat that they eat is not associated with
+harming animals because it is humanely produced. These so called
+“conscientious omnivores ”(COs) have been on the rise since the merits
+of the position were argued in an essay by Michael Pollan (2002) .O f
+relevance here, COs are less likely to perceive their diet as something
+that they absolutely need to follow and report violating their diet more
+(Rothgerber, 2015a ). Thus, although COs may have multiple motives
+for their position, the MRCD framework interprets the movement insome ways as providing a shield against dissonance for those who still
+consume meat derived from cruel treatment. To a lesser extent, in-dividuals may convince themselves that traditionally raised food ani-
+mals do not have it so bad ( “the pigpens are nice and warm, ”“the
+chickens always have enough to eat ”), reasoning identi ﬁed by Te Velde
+et al. (2002) in interviews with Dutch consumers and farmers. As fur-
+ther evidence of this wishful thinking, Worsley et al. (2015) found that
+the majority of Australians believed that farmers take good care of li-
+vestock.
+2.5. The presence of vegetarians: do-gooder derogation
+The mechanisms reviewed so far are hypothesized to impede MRCD
+by eliminating the awareness that individuals harm animals through
+their eating behavior. MRCD may also be activated by the presence of
+or reminders of vegetarians ( Rothgerber, 2014a ). Because they are a
+meaningful category that carries strong associations, the presence ofvegetarians may encourage self-categorization as a meat eater, espe-
+cially to the extent that the context emphasizes di ﬀerences between
+vegetarians and omnivores and similarities within each group ( ﬁt: see
+Turner, Hogg, Oakes, Reicher, & Wetherell, 1987). In such cases, it is
+speculated that omnivores will temporarily think of themselves as meat
+eaters and as a result of diet being salient, will be reminded of the
+dissonance they experience from eating meat. This would be an unusual
+occurrence because as members of a very large majority, meat eaters
+almost never deﬁ ne themselves in these terms (see Joy, 2011 ). Carnism
+is a largely invisible ideology, but vegetarians potentially reduce thisinvisibility and threaten the prevailing belief system that encourages
+meat consumption. Vegetarians not only encourage reminders of dis-sonance,
+they also may threaten to make it harder to alleviate the
+dissonance and to morally disengage from the harm in ﬂicted upon
+animals used for food. That is, vegetarians are particularly threateningbecause they undermine the dissonance-reducing strategies used by
+meat eaters (see Rothgerber, 2014a ). For example, vegetarians un-
+dercut the notion that meat eaters have no choice but to consume meatfor their well-being and survival ( Rothgerber, 2014a ).
+Vegetarians also potentially represent a counter ideology tocarnism, through the promotion of a belief system that killing animals
+for food is unethical. The rejection of traditional values that is asso-
+ciated with vegetarians helps explain why the symbolic foods of holi-
+days are notable sources of tension between vegetarians and family
+members ( Beardsworth & Keil, 1991 ,1992 ;Jabs, Sobal, & Devine,
+2000 ) and why some parents interpret their children's vegetarianism as
+a rejection of their upbringing ( Beardsworth & Keil, 1991, 1992). In
+short, it is in large measure what vegetarians signify that threatens meateaters.
+There is accumulating evidence that individuals are threatened by
+those they perceive as taking moral positions that they themselves are
+unwilling to take ( Monin, Sawyer, & Marquez, 2008; O'Connor &
+Monin, 2016 ). In a study of consumer behavior, Zane, Irwin, and
+Reczek (2016) found that those seeking out ethical product information
+were denigrated as morally superior rebels by those ignoring such in-formation. Sykes and Matza (1957) label this strategy “condemning the
+condemner. ”The transgressor shifts the focus of attention from their
+own deviant acts to the motives and behavior of those who disapprove
+of their violations, who may be “hypocrites, deviants in disguise, or
+impelled by personal spite ”(Sykes & Matza, 1957 , p. 668).
+By failing to engage in normative eating behavior, often for ethical
+reasons, vegetarians would seemingly qualify as moral rebels concernedwith the ethical attributes of food and subject to the same denigration.
+Indeed, MacInnis and Hodson (2017) found that vegetarians and vegans
+were evaluated as or more negatively than other commonly studiedtargets of prejudice (e.g., homosexuals, Blacks) –only drug addicts were
+evaluated more negatively. Minson and Monin (2012) found that nearly
+half of meat eaters generated negative associations of vegetarians.
+Consistent with their concept of “do-gooder derogation ,”this eﬀect was
+stronger for participants who believed vegetarians considered them-selves superior to the participant or to meat eaters in general, and for
+those participants who anticipated moral reproach from vegetarians
+before making judgments about them. Manipulating anticipated moralreproach from vegetarians also led meat eaters to report greater dis-
+sonance-related negative emotions ( Rothgerber, 2014a ). This same
+study found further evidence of vegetarian-induced dissonance to bereduced in part by critiquing or focusing on de ﬁciencies of the vege-
+tarian. Speci ﬁcally, exposure to vegetarians that were imposters, pre-
+sented as having allergies necessitating their vegetarianism, and in-
+consistent in their practice led meat eaters to give less endorsement to
+dissonance reducing strategies, presumably because these “weaker ”
+vegetarians
+provoked less arousal ( Rothgerber, 2014a ). In summary,
+the present framework postulates that denigrating vegetarians helps
+prevent meat eaters from experiencing or contemplating MRCD and
+instead diverts attention elsewhere.
+As shown in Fig. 1, the framework expects that when individuals
+prevent MRCD from occurring in the ﬁrst place, they will continue
+eating meat at the same incidence. The lack of a con ﬂict or aversive
+arousal from their eating behavior would suggest that in these instances
+individuals have not undergone additional pressures to convince
+themselves that eating meat is moral. The lack of further psychological
+justiﬁcations would suggest that they should continue to eat meat
+regularly, habitually (see Bastian & Loughnan, 2017) without scrutiny.
+3. Mechanisms to reduce MRCD: behavioral change andperceptual change
+Thus far, the paper has reviewed six mechanisms by which meat
+eaters avoid and respond to triggers that threaten to bring to con-sciousness the tension between their eating behavior and a belief, at-titude, or value related to animal welfare, environmental protection, or
+the promotion of personal health. Despite e ﬀorts to prevent MRCD from
+taking root, however, there are situations in which meat eaters ex-perience aversive arousal. On these occasions, as shown in Fig. 1,i ti s
+proposed that at least one of the MRCD reduction mechanisms will likely
+be employed to dissipate the cognitive dissonance state. It seemsH. Rothgerber Appetite 146 (2020) 104511
+5unlikely that individuals would choose to reduce dissonance by de-
+creasing what classical dissonance theory terms discrepant cognitions.
+This would involve either the individual (a) convincing themselves that
+they do not love animals or want them to be treated well, or at least that
+these attitudes are unimportant, or (b) changing their eating behavior
+so that it becomes consistent with their pro-animal beliefs. While be-
+havioral change is the goal of non-governmental organisation (NGO)
+activism, statistics indicate that abandoning a meat-based diet is not an
+entirely popular mode of dissonance reduction.
+Over the last 30– 35 years, average meat consumption in the U.S.
+actually increased from 176 to 240 pounds a year ( Herzog, 2010 ), in-
+creasing at the fastest rate in four decades during 2015. In animalterms, the number of creatures killed to satisfy a family of four bal-
+looned from 56 animals a year to 132 animals during the same time
+period. According to the USDA, per capita meat consumption in the U.S.
+neared a record high in 2018. An upward trajectory is also predicted to
+continue in the rest of North America and globally, where meat con-
+sumption has likewise been on the rise ( Organisation for Economic Co-
+Operation and Development, 2014 ); projections estimate that meat
+consumption will increase in North America by 8%, in Europe by 7%
+and in Asia by 56% from 2011 to 2020 ( OECD, 2014 ). Conversely, rates
+of vegetarianism are low –the practice is estimated at 5% in both the
+U.S. ( Gallup, 2018) and in Europe ( Statista, 2016 ).
+Rather, the framework posits that individuals are likely to live with
+the signi ﬁcant contradictions posed by their eating behavior and in-
+stead reduce MRCD through perceptual change by adopting motivated,
+unapologetic justi ﬁcations, rationalizations, and other strategic per-
+ceptions that explain away the troubling eating behavior –what clas-
+sical dissonance theory ( Festinger, 1957 ) would term consonant cogi-
+tions. In Serpell ’s (1986) terms, “We fabricate elaborate and often
+mythological justi ﬁcation for their su ﬀering that absolves us of blame ”
+(p. 211). Researchers have developed several measures that identify thejustiﬁcations that meat eaters endorse to convince themselves that
+eating meat is defensible, including the Meat-Eating Justi ﬁcation Scale
+(MEJ; Rothgerber, 2013), the 4 N Scale ( Piazza et al., 2015 ), Graca's
+Meat Attachment Questionnaire ( Graça, Calheiros, & Oliveira, 2015 )
+and Moral Disengagement in Meat Questionnaire ( Graça, Calheiros, &
+Oliveira, 2016 ), and the Carnism Inventory ( Monteiro, Pfeiler,
+Patterson, & Milburn, 2017 –seeRosenfeld (2018) for a more detailed
+review of these ﬁve measures.
+The MRCD framework formulates that the consonant cognitions that
+these scales identify can be grouped into three categories: those focused
+on animals themselves as entities separate from meat; those focused on
+meat itself; and those focused on denying responsibility for eating meat.
+From a dissonance perspective, endorsement of these justi ﬁcation
+scales
+helps individuals feel better about eating meat and reduces guilt overdoing so, hence facilitating greater consumption ( Piazza, in press ).
+These perceptions allow individuals to act on a moral imperative andmaintain their view of themselves as moral actors who do not inﬂ ict
+harm on others ( Bandura, 1999).
+3.1. Animal based reduction: denial of animal mind and dichotomization
+Aﬁrst set of MRCD prevention strategies are proposed to focus on
+the denigration of consumed animals. Individuals who trample over the
+rights of others often do so be degrading their victims as unworthy of
+proper regard ( Bandura, 1990; 1999). Dissonance theory suggests that
+the more people hurt others, the more they vilify their victims in orderto maintain their own self-justi ﬁcation, and the more they are resistant
+to evidence that what they have done is wrong. Sykes and Matza (1957)
+describe a process in which the transgressor neutralizes moral indig-nation at the self by denying the humanity of the victim and main-
+taining that the injury is not really an injury at all. To the extent that
+targets are not capable of su ﬀering, judgments that moral harm has
+been committed against them diminish ( Gray, Young, & Waytz, 2012 ).
+More speci ﬁc to eating meat, Serpell (1986) notes that individualsdistort facts about farm animals so that their death seems appropriate,necessary or deserved. For example, the fact that pigs survive and seem
+outwardly healthy despite the inhumane living conditions they endure
+leads individuals to conclude that they are debased, insensitive crea-
+tures unworthy of moral concern. Serpell (1986) attributes this ten-
+dency to view farm animals as objects rather than subjects as the pri-mary reason why livestock producers are resistant to humane reforms
+even when these changes could be implemented without substantially
+increasing cost. The present framework proposes that one technique,
+therefore, to reduce MRCD is to deny animal mind ; that is, by claiming
+that animals do not think, feel, and su ﬀer the same way as humans do,
+meat eaters reduce the aversive arousal brought on by eating them. In
+this view, beliefs about animals are strategically malleable to suit an
+individual's motivational needs.
+This argument has been directly supported by several experiments
+demonstrating that when MRCD is triggered by some seemingly trivial
+psychological manipulation, individuals will reduce dissonance per-
+ceptually by denigrating animals, which is frequently the option pro-
+vided for them. Bastian, Loughnan, and colleagues have found that
+eating meat during an experiment ( Loughnan et al., 2010), being re-
+minded of a link between meat and animal su ﬀering, being expected to
+consume an animal in the imminent future, and judging animals rated
+as more appropriate to eat ( Bastian et al., 2012) all led participants to
+perceive animals as less capable of experiencing sensations (e.g.,hunger, pleasure, pain, etc.) and intellectual states (e.g., thinking,
+planning, imagining, etc.). When dissonance was triggered by breaking
+the dissociation between animal and meat, French participants attrib-
+uted less mind to cows ( Tian, Hilton, & Becker, 2016 ); in Rothgerber
+(2014a) , the trigger was exposure to unimpeachable vegetarians, and it
+produced a similar lowering of perceived animal capacity.
+These experimental studies reinforce work demonstrating that meat
+eaters perceive less human-animal similarity ( Bilewicz, Imho ﬀ,&
+Drogosz, 2011 ) and believe animals to possess lower mental capacities
+than do vegetarians ( Ang, Chan, & Singh, 2019 ). They are also sup-
+ported by recent work showing that the more meat eaters experience
+ambivalence toward meat, the more likely they are to downplay theability
+of animals to possess emotional and intellectual states ( Buttlar &
+Walther, 2018 ). Similarly, greater meat consumption is related to
+stronger beliefs that animals do not su ﬀer and experience pain the same
+way as humans ( Monteiro et al., 2017 ;Rothgerber, 2013). Together,
+these strategic perceptions help eliminate aversive consequences for
+behavior and thus, help participants resolve the con ﬂict between eating
+animals and concern for their welfare; in Bandura ’s (1999) terminology,
+they help individuals achieve moral disengagement through deni-
+grating the victim. When this process is disrupted and individuals think
+about psychological attributes of animals, especially their intelligence,
+they report greater disgust at the thought of eating them ( Ruby &
+Heine, 2012 ).
+Another strategy to reduce dissonance proposed by the MRCD fra-
+mework involves a more subtle form of debasement that allows in-dividuals to maintain positive connections with selected animals while
+justifying consuming others. Dichotomizing animals into those we love
+and those we eat explains all sorts of inconsistencies in the way animalsare treated (see Herzog, 2010; Joy, 2011 ) and helps account for why
+Americans express outrage at dogs being eaten in some cultures whilesimultaneously disregarding the moral worth of chickens, cows, pigs,
+and other frequently consumed animals in their own. This selective
+application of the moral sphere to certain animals but not others is
+found in other cultures and in some cases, even within the same species.
+The native inhabitants of Polynesia, for example, become attached to
+pet dogs that are exempt from slaughter but remain detached from dogs
+that are to be eaten ( Serpell, 1986). Recent evidence suggests that the
+aforementioned denial of animal mind among meat eaters only appliesto animals that individuals consume. That is, the objects of consump-
+tion are denigrated but animals that serve human needs as pets are not
+perceived to have lower mental capacities ( Ang et al., 2019 ).H. Rothgerber Appetite 146 (2020) 104511
+6Subtly creating di ﬀerent categories of animals based on human
+eating behavior appears to be a key mechanism to facilitate meat
+consumption in children. Stewart and Cole (2009) argued that all re-
+presentations of nonhuman animals are deﬁ ned according to their
+usefulness to humans and propose two independent dimensions by
+which humans deﬁ ne animals: in terms of their visibility and how ob-
+jectiﬁed they are. The most privileged status is attached to pets who are
+both highly visible and treated as subjects with whom children form a
+close relationship. On the opposite extreme lie farmed animals, who are
+nearly invisible and who are objecti ﬁed. To support the invisibility
+notion, Plous (1993) reported that only 3% of stu ﬀed animal varieties
+from a major manufacturer were commonly eaten animals, i.e., cows,
+pigs, or chickens. Of the thirty-four stu ﬀed animals o ﬀered by a large
+retail toy catalogue in the U.S., none featured a cow, pig, or chicken.Anderson & Henderson (2005) noted that in the majority of children's
+stories, there is a separation between consumed animals such aschickens, sheep, cows, and pigs, which are largely invisible and treated
+as replaceable commodities, and domesticated animals and pets, which
+become humanized. Stewart and Cole (2009) speciﬁed several story and
+communication techniques that blur the boundary between humansand these latter animals, thereby elevating our sympathy and fondness
+for them. Cruelty to domesticated animals is scorned, teaching children
+that while it is wrong to harm certain animals, it is simultaneously
+acceptable to eat others ( Paul, 1996).
+3.2. Meat-based reduction: meat as natural, normal, and nice
+The aforementioned strategies focus on the animal that constitutes
+the meat, but meat is an entity onto itself as well. The current frame-
+work proposes that some justi ﬁcations do not focus exclusively on
+farmed animals and their derogation, but instead center on an under-standing of meat itself with or without a recognition of the animals
+involved. These strategies generally direct attention to meat consump-
+tion, rather than meat production. One pro-meat justi ﬁcation is the
+claim that eating meat is natural . This rationalization focuses on human
+relationships with animals and depicts the relationship, whether it be
+through religious or evolutionary forces, as one characterized by human
+dominance and animal subordination (see Piazza et al., 2015;
+Rothgerber, 2013). Appeals to biology, biological hierarchy, naturalselection, human evolution, and to God him/herself represent abstrac-
+tions that intellectually distance individuals from their eating habits. By
+focusing on human's standing in relation to animals, it is speculated that
+the meat eater is excused for outcomes that would otherwise be ob-
+jectionable; animal su ﬀering is rendered irrelevant, as a cost to the
+expression of being human. Indeed, greater endorsement that it isnatural to eat meat is related to greater meat consumption, less in-
+clination to change eating habits, and less willingness to try meat
+substitution products ( Graça, Calheiros, & Oliveira, 2015; Piazza et al.,
+2015 ;Rothgerber, 2013 ).
+The MRCD framework suggests that there is also a pro-meat justi-
+ﬁcation that derives an understanding of what it means to be human not
+from abstract theories of biology or religion but from considering the
+behavior of others, in this case what most others seem to be doing. Not
+speciﬁc to MRCD, social support acts as a consonant cognition
+(McKimmie et al., 2003 ;Stroebe
+& Diehl, 1981). That is, having
+someone else also commit a problematic behavior lessens the need to
+reduce dissonance through attitude change ( Stroebe & Diehl, 1981 ),
+provided the behavioral support came from someone who shared asalient ingroup membership ( McKimmie et al., 2003 ). The self-stan-
+dards model of dissonance ( Stone & Cooper, 2001 ) posits that people
+deﬁne what constitutes unwanted and therefore dissonance-provoking
+behavior by referencing commonly and consensually agreed bench-
+marks ( Cooper, 2007). Dissonance only occurs when an event contra-
+dicts culturally shared norms. It is proposed, therefore, that MRCD islessened to the extent that meat eating is rationalized as a normal
+human activity, a deeply-ingrained habitual behavior that largelytranscends culture. This social proof version of dissonance-reduction
+appeals to dominant societal norms and attempts to placate guilt by
+social reassurance. Because it is culturally acceptable to eat meat, the
+individual is speculated to feel less aversive arousal even when made
+aware of how their eating behavior may contradict a belief or lead to
+harmful consequences. In support of this argument, greater endorse-
+ment of meat as normal led to less guilt about eating meat and less drive
+to restrict meat from diet ( Piazza et al., 2015 ).
+A third pro-meat justi ﬁcation is speculated to emphasize gustation
+and that meat is simply too delicious, or nice, to avoid. Endorsement of
+such hedonic sentiments has been shown to be positively related tomeat consumption, to great commitment to maintain eating meat, and
+to less guilt over doing so ( Piazza et al., 2015 ;Rothgerber, 2013).
+Fondness for the taste and sensory qualities of meat may seem like aweak moral defense, but it is proposed that individuals convince
+themselves that the personal pleasure from eating meat makes its pro-
+blematic nature more tolerable. The importance placed upon the taste
+of meat and how ful ﬁlling and satisfying it is can be seen as drawing
+social identity boundaries between meat eaters and abstainers. Vege-tarians frequently display revulsion and disgust toward meat, especially
+its sensory characteristics such as taste and smell ( Barr & Chapman,
+2002 ;Beardsworth & Keil, 1992 ;Kenyon & Barker, 1998). Even more,
+what distinguished strict vegetarians from similar groups –con-
+scientious omnivores and semi-vegetarians –was the degree to which
+the former was disgusted by meat and disliked its sensory character-
+istics ( Rothgerber, 2014b, 2015b). Attesting to the importance of taste,
+in several studies participants perceived taste to be the biggest barrierto reduce meat consumption and adopt a vegetarian diet ( Lea &
+Worsley, 2001; Pohjolainen, Vannari, & Jokinen, 2015 ).
+3.3. Denial of responsibility: meat as necessary, third party blame, and
+moral outrage
+It is possible that individuals may view meat as involving animals
+that experience pain and have capacity and eschew pro-meat justi ﬁ-
+cations for meat consumption, yet still not experience MRCD by de-
+nying their responsibility in the matter. Early in dissonance theory it
+was discovered that lacking the freedom to avoid a dissonant act would
+serve as an important consonant cognition ( Linder, Cooper, & Jones,
+1967 ), and the new look dissonance also incorporates this as it posits
+that the individual must feel personally responsible for bringing about
+the aversive event if dissonance is to occur ( Cooper & Fazio, 1984).
+Without responsibility, disapproval of self or others is sharply reducedas
+a restraining in ﬂuence ( Sykes & Matza, 1957).
+The MRCD framework posits that one way to deny responsibility is
+to perceive oneself as having no choice in the matter because of beliefs
+that meat is necessary for good health . This may explain why meat eaters
+strongly believe that it is unhealthy to forego meat consumption andwhy the more this view is endorsed, the more individuals reported
+eating meat ( Piazza et al., 2015 ;Rothgerber, 2013 ). By convincing
+themselves that meat is necessary for survival, the individual does notfeel responsible for harming animals. Meat as necessary is one of the
+4 N's of meat justi ﬁcation ( Piazza et al., 2015 ) and its endorsement has
+also been correlated with lower drive to restrict animal products fromdiet, greater commitment to eating meat, and less guilt about animal-
+product decisions ( Piazza et al., 2015 ).
+Beyond convincing oneself that eating meat is not a choice at all, the
+framework also suggests that individuals may obscure personal re-
+sponsibility for the mistreatment of farmed animals by minimizing their
+own in ﬂuence and blaming other entities in the food system. Consumers
+generally claim that they are powerless to improve animal welfare
+standards ( Harper & Henson, 2001 ), with majorities in a European
+sample believing that their voice matters little ( Mayﬁeld et al., 2007).
+Majorities also indicate that they would like more information about
+the treatment of farm animals when making purchasing decisions
+(European Commission, 2006 ;Harper & Henson, 2001 ), which in partH. Rothgerber Appetite 146 (2020) 104511
+7seems a self-protective claim to reduce dissonance because individuals
+avoid such information when made available ( Harper & Henson, 2001 ).
+Only a small minority believe that farm animal welfare is primarily amatter for consumers ( European Commission, 2006 ). Responsibility is
+instead abrogated to other agents, such as governments ( Harper &
+Henson, 2001; Miele, 2010, pp. 1– 16;Te Velde et al., 2002) for failing
+to implement su ﬃcient and e ﬀective laws and to retailers for failing to
+oﬀer humanely produced meat ( Miele, 2010 , pp. 1– 16;Te Velde et al.,
+2002 ). This third party blame or“shifting the blame ”(Serpell, 1986 )i s
+an age-old device to distance individuals from the killing of animals and
+place responsibility elsewhere. In New Guinea, for example, a division
+of labor allows women to care for and nurture pigs and remain
+blameless for their death, a task which befalls the men who have no
+prior relationship with the animals. In many industrialized societies, a
+division of labor within animal farming (e.g, breeder, growing to
+slaughter weight, transport to slaughter, etc.) allows each farmer to
+evade the full burden of responsibility ( Serpell, 1986 ).
+At times, the framework speculates that individuals may also ex-
+press moral outrage at third party transgressors in the food system or
+even at others who mistreat animals outside the food context as a wayto reduce MRCD. Such moral outrage has been shown in part to be
+motivated by an e ﬀort to assuage personal guilt and cast dispersions on
+others ( Rothschild & Keefer, 2017 ). For example, Rothschild, Landau,
+Sullivan, and Keefer (2012) found that reminders of participants' own
+environmentally destructive behavior increased their willingness toblame corporations for harming the environment. A ﬃrming partici-
+pants' moral identity in an unrelated context eliminated this guilt-driven blame. The opportunity to express outrage reduced guilt and
+restored perceived personal morality ( Rothschild & Keefer, 2017 ). This
+suggests that individuals may express defensive outrage over thetreatment of farmed animals in part to restore a moral identity, in this
+case reducing MRCD by convincing oneself that their eating behavior is
+regrettable, but not really under their control. This is related to thephenomenon of distancing, a way of coping with ethical dissonance by
+hiding one's own moral violation while pointing to other people's moral
+failings ( Barkan et al., 2015 ).
+As shown in Fig. 1, the current framework proposes that when in-
+dividuals reduce MRCD through perceptual distortions about meat and
+animals, these justi ﬁcations become practiced and more accessible, thus
+strengthening individuals ’commitment to and belief in them. It is
+speculated that such justi ﬁcations allow individuals to continue con-
+suming meat with less guilt or aversive arousal. What may be less ap-parent is the suggestion that activating and elaborating on these justi-
+ﬁcations for eating meat likely causes individuals to increase their meat
+consumption. Essentially, by reassuring themselves that eating meat is
+morally justi ﬁable,
+ the behavior becomes more attractive. In essence,
+the MRCD framework proposes that experiencing MRCD is double-edged: It may lead some to assuage guilt by abandoning meat con-
+sumption, but for many others, it will increase meat consumption
+through the formulation and strengthening of justi ﬁcations.
+Although increasing attention is being paid to delineate and ex-
+pound upon the strategies by which meat eaters prevent and reduce
+MRCD, research is less informative about the relative popularity of each
+of these dissonance prevention and reducing mechanisms and about
+specifying upon what this popularity depends. Most often, investigators
+will only make available one means of reducing MRCD (but see Tian
+et al., 2016), preventing conclusions about whether participants wouldhave chosen that means of dissonance reduction if others had been
+available. Given the importance of which mechanisms meat eaters
+employ to negotiate MRCD, the next section sets out to identity some
+factors that may predict these choices and generates predictions
+awaiting further tests.4. Predicting the MRCD prevention/reducing mechanisms
+4.1. The aspect of meat eating that produces MRCD
+In keeping with the attention given to the meat paradox, the
+manuscript has focused on concerns that eating meat is harmful to
+animals, but MRCD may also originate from reminders that eating meat
+is harmful to the planet or to personal well-being. Some individuals
+may be more susceptible to one form given their unique values and
+priorities, and the context itself may encourage one form of MRDC to be
+activated, as would occur if a publicized study found meat to be
+harmful to health, or a new report cited meat as a major contributor to
+climate change. That said, consistent with the current emphasis, there is
+reason to believe that MRCD is most likely to emerge with concerns
+related to animal welfare. For example, environmental science graduate
+students in the Czech Republic were more likely to cite animal welfare
+concerns as problematic for meat consumption than environmental
+concerns, even though the latter was their area of study and they were
+knowledgeable about meat's danger to the environment ( Šedová,
+Slovák, & Je žková, 2016 ). To speculate, perhaps MRCD seems strongly
+tied to animal harm because this link is most obvious and visible, while
+feeling guilty about eating meat because of environmental or personal
+health concerns may be based on more remote factors and may require
+greater knowledge. One hypothesis is that MRCD based on threats to
+personal health may be the least common, as one dissonance-reducing
+mechanism is the previously noted widespread belief that animal pro-
+tein is necessary to promote good health.
+This distinction about what issue directs MRCD has typically been
+ignored as investigators of the meat paradox have focused on un-
+pleasantries related to animals. But centrally, the framework empha-
+sizes that how individuals reduce MRCD depends on what is salient in
+theﬁrst place. When environmental and personal health concerns
+compel MRCD, mechanisms related to animals –denial of animal mind,
+dichotomization, and dissociation –are hypothesized to disappear as
+motivated cognitions and prevention tactics. In general, one could
+speculate that concerns over personal health may be likely to be pre-
+vented by perceiving oneself as restricting meat intake and strategically
+avoiding information linking meat eating with negative health out-
+comes and reduced by justifying meat as necessary for health and by
+emphasizing other healthy behaviors one practices. Environmentally-
+activated MRCD may be speculated to be prevented by perceiving
+oneself as restricting meat intake, strategically avoiding information
+liking meat with negative environmental outcomes, and derogating
+vegetarians who pose a moral threat, and reduced by denying respon-
+sibility. In part, which mechanism is preferred is hypothesized to de-
+pend on the speci ﬁc motivation created by MRCD. The next section
+discusses the impact of motivation for the prototypical cases of MRCD,those involving concern for animal welfare.
+4.2. The motivation created by MRCD
+MRCD –like other forms of dissonance –seems to involve arousal,
+as anticipating moral reproach from vegetarians increased negative
+emotions ( Rothgerber, 2014a ) and thinking about the intelligence of
+lamb along with typical conditions of its life, death, and processingincreased negative a ﬀect in women ( Dowsett, Semmler, Bray, Ankeny,
+& Chur-Hansen, 2018 ). There are various motivations that may cause
+the arousal state associated with MRCD, a source of theoretical con-
+tention for CDT historically. The current framework proposes that what
+motivates MRCD is important because it helps determines how it is
+resolved.
+Next,
+I consider the versions of dissonance theory that seem to have
+the most relevance for MRCD and hypothesize on di ﬀerent MRCD
+prevention and reduction mechanisms most likely to be associated witheach. This entire section should be viewed as speculative because to
+date, there has been little, if any, research on what type of dissonanceH. Rothgerber Appetite 146 (2020) 104511
+8motivation is associated with MRCD.
+Inconsistency. Classical dissonance theory ( Festinger, 1957) posits
+that cognitive dissonance occurs when an individual believes that two
+of their cognitions (beliefs, opinions, attitudes, perceptions, or knowl-
+edges about persons, objects, issues, and so forth) are inconsistent with
+each other. Most often the inconsistency results from discrepancies
+between what people think (i.e., attitudes, beliefs, etc.) and what
+people do (i.e., behaviors). From this perspective, MRCD could arise
+from knowledge that “I eat meat, ”which is incongruent with the re-
+cognition that “I don't like to hurt animals. ”The more discrepant the
+cognitions, and the more they matter to the individual, the greater the
+magnitude of dissonance. Formally, dissonance magnitude can be de-
+ﬁned as the SUM (all discrepant cognitions x importance)/SUM (all
+consonant cognitions x importance). If meat eating is the troublingbehavior, then consonant cognitions would involve motivated percep-
+tions that are consistent with or help explain away eating meat.
+InFestinger's (1957) original version of CDT, all the reviewed pre-
+vention and reduction strategies would be hypothesized to alleviate the
+cognitive dissonance state because they all (a) serve to help avoid
+thinking about eating meat or animal welfare (i.e., the prevention
+strategies), (b) qualify as consonant cognitions (i.e., the strategic per-
+ceptions to reduce MRCD), or (c) reduce discrepant cognitions (i.e.,
+behavioral change). While certain individual di ﬀerences may bias
+people toward one strategy over another, they should all be attractivebecause they reduce the magnitude of dissonance, noting that people
+generally prefer perceptual to behavioral change.
+Responsibility based revisions. According to the New Look model
+of dissonance ( Cooper & Fazio, 1984 ), the cognitive dissonance state
+occurs when a behavior produces aversive consequences individualswant to avoid ( Cooper & Worchel, 1970 ;Goethals & Cooper, 1972 ) for
+which they feel personally responsible ( Beauvois & Joule, 1981 ). Per-
+ceived personal responsibility is absolved if individuals believe they
+had no choice in committing the behavior ( Linder et al., 1967 ) and/or
+the consequence was unforeseeable when they made that choice
+(Cooper, 1971 ). From this perspective, MRCD would arise from
+knowledge that “I eat meat ”along with a belief that “eating meat harms
+animals, ”provided the individual perceives themselves to have made
+the choice to eat meat freely and that they could have known it washarmful to animals when they decided to eat meat. The responsibility
+revisions focus on rationalizing the behavior through a change in atti-
+tudes as the primary way to reduce cognitive dissonance state. Attitude
+change here is not motivated to restore consistency, but to render the
+consequences of behavior non-aversive.
+If MRCD occurs because an individuals ’eating behavior produces
+aversive consequences they wish to avoid and for which they feel
+personally responsible, then the goal of dissonance reduction is to
+convince individuals that the consequences of their behavior are non-
+aversive or that they are not responsible for their behavior. One pri-
+mary option, therefore, is hypothesized to involve trivializing the
+consequences of eating meat by denying mind capacity to animals. If
+animals cannot su ﬀer the same way as humans and their perceived
+capacity is diminished, then the animal welfare consequences of eatingmeat seem negligible. Of course, it may also be possible to deny that
+individuals are causing harmful consequences to animals by preventive
+strategies such as avoiding thinking about animal welfare, willfully
+remaining ignorant of it, dissociating meat from the animal, and pre-
+serving the illusion that they are not really eating that much meat.
+Denying personal responsibility is also hypothesized to be achieved by
+claims that meat is necessary for good health, and by expressing moral
+outrage at other implicated constituencies in the food production pro-
+cess, such as governments, farmers, and retailers for not curtailingabuses
+against animals.
+Self-based revisions. Some revisions of CDT emphasize the e ﬀect
+of threats to self-integrity in activating negative arousal. According to
+self-based modi ﬁcations, the cognitive dissonance state occurs when an
+individual's behavior is inconsistent with their self-concept (self-consistency; Aronson, 1968), or when it threatens their sense of self as
+worthy, morally rectitude, or competent (self-a ﬃrmation; Steele,
+1988 ). From these accounts, MRCD may arise from the knowledge that
+“I eat meat, ”along with a belief that “compassionate people don't hurt
+animals. ”Both these approaches connect dissonance reduction to re-
+storing an individual's threatened self-conception although there is an
+important distinction between them.
+In the self-consistency view, the restoration must be targeted at the
+speciﬁc inconsistency producing the cognitive dissonance state.
+Individuals may decide, for example that they are not moral or com-petent for eating animals, but more likely they would seek to change
+other attitudes or relevant cognitions about animals or meat to feel
+more worthy. In the self-a ﬃrmation view, anything that rea ﬃrms the
+integrity of the self, even if it does not directly resolve the incon-sistency, will reduce the cognitive dissonance state. An even more in-
+clusive perspective on CDT is the Meaning Maintenance Model ( Proulx,
+Inzlicht, & Harmon-Jones, 2012), which outlines that the cognitivedissonance state does not require a self-threat and could be reduced by
+any process that reduces the arousal if not the inconsistency. This view
+suggests that dissonance reduction can occur by means unrelated to the
+inconsistency, such as regaining control, looking for rules, or a ﬃrming
+familiar values and beliefs.
+If self-consistency is implicated, restoring a threatened sense of self
+in the face of MRCD may be accomplished by perceptually emphasizingthat one does nice things for (non-consumed) animals –a process re-
+lying on dichotomization, that one is morally outraged by the immoralactions of others, and that one is o ﬀended by vegetarians and their
+claims of moral superiority. While these perceptions all help the in-dividual feel better about themselves by focusing attention speci ﬁcally
+on eating meat, self-a ﬃrmation accounts (and even more broadly, the
+meaning maintenance model) would also emphasize that individuals
+may consider any good actions that they do, even behavior unrelated to
+eating meat itself, an example of what Barkan et al. (2015) term moral
+licensing. Whether self-consistency or self-a ﬃrmation is involved,
+prevention mechanisms such as avoidance, willful ignorance, and dis-sociation would also help protect the self from recognition that the
+individual is doing something unworthy and immoral when eating
+meat.
+4.3. Individual di ﬀerences
+While the popularity of MRCD prevention and reducing mechanisms
+may depend on somewhat context-driven factors such as the aspect
+producing MRCD and the motivation created by it, the use of these
+mechanisms is also speculated to be connected to more enduring in-
+dividual di ﬀerences. The individual di ﬀerence approach has received
+some attention in the meat eating literature, as there has been recentinterest in identifying di ﬀerent types of meat eaters (see Graça et al.,
+2015 ;Onwezen
+& van der Weele, 2016), in part because of the logic of
+segmentation, the idea that di ﬀerent groups of people will be more or
+less persuaded by di ﬀerent messages. These types of analyses di ﬀer in
+what factors di ﬀerentiate between di ﬀerent types of meat eaters, but
+most place individuals on a continuum from more meat attachment toless. The present framework would predict that those more attached to
+meat derive more value from it and would be more likely to reduce
+MRCD perceptually through motivated cognitions. Those less attached
+to meat derive less satisfaction from meat and should rely on preventive
+strategies to reduce MRCD, and if those fail, would be predicted to be
+more likely to embrace behavioral change than those more committed
+to meat. Below are a few individual di ﬀerences that may impact how
+MRCD is handled, along with relevant research.
+Gender. There is reason to suspect that gender is an important
+predictor of an individual's proclivity to adopt a particular technique to
+reduce MRCD. A number of studies have found that gender is the single
+biggest predictor of attitudes toward animals and consumption of ani-
+mals (e.g., Gossard & York, 2003 ;Kellert & Berry, 1987 ;Vollum,H. Rothgerber Appetite 146 (2020) 104511
+9Buﬃngton-Vollum, & Longmire, 2004 ). Women form stronger emo-
+tional attachments to pets, revealed greater anthropomorphic feelings
+toward animals, are more concerned about the su ﬀering of lab animals,
+favor more the animal protection movement, and favor increased re-strictions on animal use ( Broida, Tingley, Kimball, & Miele, 1993;
+Eldridge & Gluck, 1996 ;Kellert & Berry, 1987; Knight, Vrij, Cherryman,
+& Nunkoosing, 2004 ). In contrast, Kellert and Berry (1987) found that
+men expressed stronger support for utilitarian and dominionistic atti-tudes toward animals. The former is indicated by a willingness to agree
+with the exploitation of animals while the latter is related to deriving
+personal pleasure from achieving control over animals.
+Perhaps not surprisingly, these gender di ﬀerences in attitudes to-
+ward living animals a ﬀect attitudes and behavior toward meat. Women
+expressed more disgust and negative attitudes toward eating meat thanmen ( Kubberod et al., 2002a ,2002b) and reported eating less meat
+across samples from di ﬀerent nationalities ( Allen, Wilson, Ng, & Dunne,
+2000 ;Kubberod et al., 2002a ;Prättälä et al., 2006 ;Rozin, Hormes,
+Faith, & Wansink, 2012 ;Santos & Booth, 1996 ). Among ﬂexitarians,
+gender predicted openness to going vegetarian, even beyond identity,
+motivational, or social contextual factors ( Rosenfeld, Rothgerber, &
+Tomiyama, 2019 ). Additionally, a number of researchers have dis-
+covered that a greater percent of women report being vegetarian (e.g,
+Cramer et al., 2017; Forestell & Nezlek, 2018; Kalof, Dietz, Stern, &
+Guagnano, 1999 ); attesting to the strength of the e ﬀect, gender (fe-
+maleness) was the single biggest predictor of vegetarianism in a large-
+scale American database ( Gossard & York, 2003 ).
+One of the reasons that women are more likely to disavow meat is
+that animal ﬂesh is associated with power, dominance, and masculinity,
+attributes embraced by men ( Adams, 1990; Allen & Hung Ng, 2003; Lea
+& Worsley, 2001; Rothgerber, 2013 ). When the values symbolized by a
+product are incongruent with personal values, individuals like the tasteof the product less and have less favorable attitudes and behavioral
+intent to purchase the product ( Allen, Gupta, & Monnier, 2008 ). The
+importance of value di ﬀerences in a ﬀecting the evaluation of meat was
+conﬁrmed in one study revealing that gender di ﬀerences in vegetar-
+ianism
+disappeared after controlling for di ﬀerences in values and beliefs
+(Kalof et al., 1999).
+Because of their greater a ﬀection and compassion toward animals
+and greater distancing from meat and the values it represents, womendisplay di ﬀerent ways of handling the contradictions instigated by meat
+consumption than men. In contrast to men who relish opportunities todisplay mastery over animals, women ﬁnd it more di ﬃcult to justify
+eating animals, giving less endorsement to justi ﬁcation strategies that
+reduce MRCD ( Rothgerber, 2013 ). Women prefer “look-the-other-way ”
+strategies that prevent MRCD by dissociating the animal from the foodon their plate and by avoiding thinking about how the animal was
+treated before arriving to the plate ( Rothgerber, 2013). They also de-
+liberately underreport their meat consumption when the context leadsthem to anticipate MRCD ( Rothgerber, 2019b ). Men, on the other hand,
+are less apologetic and uncomfortable eating meat. They prefer to re-duce MRCD by endorsing pro-meat justi ﬁcations ( Piazza et al., 2015;
+Rothgerber, 2013 ) and by denying animal mind ( Rothgerber, 2013 ).
+Values . As noted, men and women di ﬀer in how they negotiate
+MRCD largely because they hold di ﬀerent values. Independent of
+gender, values have been shown to in ﬂuence attitudes toward animals
+and meat. Relative to meat eaters, vegetarians reject social power, so-cial dominance, inequality, and authoritarianism ( Allen et al., 2000,
+2008 ;Bilewicz et al., 2011 ;Kalof et al., 1999). This seems logical given
+that meat symbolizes these attributes and that plant-derived foods re-
+present a rejection of these values ( Adams, 1990 ;Allen et al., 2008;
+Allen & Hung Ng, 2003 ;Lea & Worsley, 2001 ). Individuals who endorse
+ideologies such as right-wing authoritarianism and social dominance
+orientation (SDO) are more likely to justify the exploitation of other
+species, tolerate animal cruelty, and report high levels of meat con-
+sumption ( Dhont & Hodson, 2014 ;Dhont, Hodson, Costello, &
+MacInnis, 2014 ;Dhont, Hodson, & Leite, 2016 ). Even after controllingfor SDO, political conservatives hold more negative animal welfareattitudes, o ﬀer less support for animal welfare, and harbor greater
+speciesism than liberals ( Hoﬀarth et al., in press; Smith, Marsden, &
+Kim, 2017 ). Because of these documented di ﬀerences,
+even though
+there is no data comparing liberals and conservatives in how they re-spond to MRCD, the framework hypothesizes that conservatives would
+behave more like men and would embrace direct, unapologetic justi ﬁ-
+cations for eating meat such as denying animal mind and espousing pro-meat justi ﬁcations; liberals, who hold greater sympathies toward an-
+imal welfare would be hypothesized to be more motivated to preventMRCD from occurring in the ﬁrst place, adopting similar mechanisms as
+employed by women and would be more adverse to handling MRCDperceptually, opting instead to curtail meat consumption.
+Aﬀection toward animals and toward meat . From a dissonance
+perspective, two types of meat-eaters stand to experience the most
+tension when confronted with reminders that their eating behavior is
+harmful to animal welfare: those that love animals the most and those
+that love meat the most. Meat eaters with particular a ﬀection toward
+animals would likely perceive MRCD to be especially troubling, as ei-ther the inconsistency would be di ﬃcult to ignore, the aversive con-
+sequences of their eating behavior perceived as large, or the violation ofself-standards poignant. The framework would speculate that similar to
+women and liberals, such individuals would likely ﬁnd many of the
+MRCD reduction strategies unappealing, especially denying animalmind and pro-meat justi ﬁcations, and thus, attempts would be made to
+prevent MRCD from ever occurring. Those loving the taste of meatwould be predicted to be pulled in a di ﬀerent direction. For such in-
+dividuals, the value gained in eating meat is large, and therefore, suchindividuals would likely be highly motivated to engage in motivated
+psychological distortions about animals and meat to maintain the de-
+sired behavior.
+Exposure to farm animals .Serpell (1986) notes that although
+farmers, livestock herders, and hunters all exert dominion over animals,the former groups have a vested interest in identifying the individual
+temperament, moods, and other characteristics of each animal under
+their care. Farmers become acquainted with individual animals and
+may become attached to them; thus, the eventual deliberate inﬂ iction of
+suﬀering on these animals produces greater guilt. Because of the bond
+between farmer and animal that Serpell (1986) describes, the frame-
+work would predict that farmers would be unlikely to reduce theirMRCD by denying animal mind; after all, it promotes their livelihood
+and well-being to distinguish between the animals they raise. Support
+for this prediction was recently attained by Peden et al. (in press) , who
+found no evidence that pig farmers denigrated the capacities of pigs toexperience various emotional states. Others working in the food pro-
+duction process, whether it be in the slaughterhouse or the chef's
+kitchen, may experience large amounts of MRCD but lack the intimacy
+with animals experienced by farmers. These groups would likely score
+high on strategic perceptions to reduce MRCD although this remains
+untested.
+4.4. Culture
+The experience of cognitive dissonance is not only shaped by in-
+dividual di ﬀerence factors but also by cultural heritage. An examination
+of how and whether cognitive dissonance is manifested in di ﬀerent
+cultures is a relatively recent addition to mainstream cognitive dis-
+sonance work, and it has been given little attention in relation to
+MRCD. After some controversy, cognitive dissonance is now understood
+to potentially a ﬀect anyone, but what activates dissonance varies by
+culture (see Cooper, 2007 ;Hoshino-Browne et al., 2005; Kitayama,
+Snibbe, Markus, & Suzuki, 2004 ). Of speci ﬁc relevance to MRCD, there
+is considerable diversity across cultures in the extent to which it is
+considered
+acceptable to exploit and harm certain animal species ( Joy,
+2011 ). More generally, to the extent that MRCD involves considering
+one's behavior and discovering that it falls short of personal orH. Rothgerber Appetite 146 (2020) 104511
+10normative standards, and that culture a ﬀects these standards, the
+MRCD framework proposes that MRCD will be experienced di ﬀerently
+depending on cultural background.
+There is tentative support for this general hypothesis. Tian et al.
+(2016) examined whether French and Chinese participants would show
+evidence of dissonance reduction following conditions designed to
+heighten MRCD. Following exposure to visual stimuli making the an-
+imal origin of meat explicit, French but not Chinese participants rated
+cows as being lower in agency-related mental states. These dissociation-
+disrupting conditions led participants, without distinction of national
+origin, to express less willingness to eat beef in two studies. Partici-
+pants ’cultural origins predicted their reactions to the study, at least in
+terms of beliefs about animal mind; the trouble lies in explicating whataccounts for the detected e ﬀects.
+One possibility is that French participants were more sensitive to
+MRCD in general, because as Tian et al. (2016) note, eating behavior
+may be tied more to their self-concept than for Chinese participants. Asecond possibility is that cultures may not di ﬀer in general suscept-
+ibility to MRCD but that what speci ﬁcally triggers MRCD may di ﬀer
+culturally. Because food production is more hidden in France than
+China, it may have evoked greater dissonance in the French sample
+(Tian et al., 2016 ). That cultures may di ﬀer in their sensitivity to dis-
+sociation has been shown in other studies ( Kunst & Haugestad, 2018;
+Mayﬁeld et al., 2007). For example, Mayﬁeld et al. (2007) found that
+the majority of Swedes were not bothered by thinking of the animalorigin of meat when eating it, that British consumers were ambivalent
+about it, and that Italians were more polarized in their reactions to
+undoing dissociation. Kunst and Haugestad (2018) claim that the po-
+tency of the dissociation mechanism seems to depend on how ac-customed consumers in a country are to viewing unprocessed meat, as
+Ecuadorians were less impacted by seeing a pork roast with its head on
+than were Americans. The cultural speci ﬁcity in activating MRCD has
+also been shown in a study that found reminding consumers about
+animal's psychological attributes led to more disgust in North America
+(i.e., Canada or the US) than in Asia (i.e., China or India; Ruby & Heine,
+2012 ). A third possibility for the results attained by Tian et al. (2016) is
+that Chinese participants experienced as much MRCD as French parti-
+cipants, but that they preferred to reduce it in a di ﬀerent manner.
+Perhaps their greater familiarity with animals in the production processor other deeper cultural values made them feel more connected to an-
+imals in a way that made them averse to denying animal mind.
+Although much more empirical work is needed to explore how
+MRCD is experienced, blunted, and reduced in di ﬀerent cultures, I
+would speculate that a critical factor seems to be the extent to which itis considered culturally acceptable to exploit and harm certain animal
+species. In addition, the following are posited to be a few likely mod-
+erators: exposure to unprocessed meat; exposure to farm animals; the
+treatment received by these farm animals; the way the culture re-
+presents relationships with animals including pets; the importance of
+taste; beliefs about personal responsibility; and beliefs about God and
+human standing relative to animals. Each of these likely impacts the
+overall MRCD experienced by a culture, what would trigger MRCD, and
+preferred options to prevent and reduce MRCD.
+Researchers, therefore, need to be very careful in interpreting cross-
+cultural data on MRCD. Cultural di ﬀerences on some outcome could be
+attributable to overall di ﬀerences in MRCD susceptibility, to di ﬀerences
+in
+the way that MRCD is activated within a culture, or to di ﬀerences in
+the way that MRCD is prevented or reduced. Ideally, these di ﬀerences
+would be systematically built into the study design and tested. Even a
+nullﬁnding does not necessarily indicate equivalence. The lack of dif-
+ference in willingness to eat beef between French and Chinese in Tian
+et al. (2016) may indicate that both groups experienced similar
+amounts of MRCD, but it could also result from one group experiencinghigher MRCD than the other combined with a lower desire to reduce
+MRCD behaviorally.5. Implications of the MRCD framework
+The present work has o ﬀered a framework for understanding how
+meat eaters are able to dissipate negative arousal given that their eating
+behavior has potentially negative consequences for animals, the en-
+vironment and personal health. It has reviewed research examining
+how MRCD is prevented and reduced and identi ﬁed factors that may
+predict the popularity of these mechanisms, citing empirical evidencewhen available. This next section is more speculative and attempts to
+outline several possible implications of the current framework.
+Speciﬁcally, I examine the implications of the framework on reducing
+meat consumption, on methodological factors a ﬀecting how to measure
+MRCD reduction, on the importance of seeking behavioral commitment
+ﬁrst, and on how MRCD is impacted by outside factors including the
+price of meat, the prominence of plant-based substitutes, and the rise ofcampaigns to increase moral awareness of animal su ﬀering, suggesting
+that each will likely lead some individuals to eat less meat but others toconsume even more of it.
+5.1. Targeting MRCD prevention and reducing strategies
+There are a variety of approaches to reducing societal meat con-
+sumption, including levying pressure on institutions and organizations
+to change policy and on the political system to seek changes to legis-
+lation that subsidizes inexpensive meat. The current work concentrates
+on the individual psychological level, and the current framework sug-
+gests that it is advantageous to confront the strategic perceptions anddistortions that meat eaters endorse when their eating behavior is
+threatened. That is, the MRCD framework implies that actors and sta-
+keholders seeking to curtail meat consumption would bene ﬁt by chal-
+lenging and delegitimizing the very mechanisms by which meat eaterswill bolster meat eating when they believe it be questioned.
+Although this approach could conceivably target any motivated
+cognition, such as pro-meat justi ﬁcations or denying responsibility, the
+few published interventions seem to focus on the denigration of animalmechanism. For example, to interfere with the denial of animal mind,
+Wang and Basso (2019) had participants read about a restaurant where
+customers or the sta ﬀplayed with piglets or where there were re-
+minders that pigs were similar to humans. Across several experiments,
+individuals had less favorable attitudes toward pork, generated greater
+guilt in thinking of consuming pork, and were less likely to buy and to
+eat pork when they were induced to think about pigs in humanizing
+terms. Although the treatment conditions disrupted the dissociating of
+pigs from pork products, the comparison conditions did this as well.
+What seems to make this intervention successful, therefore, is that an-
+thropomorphisizing animals likely has the e ﬀect of undoing the denial
+of animal mind. While meat eating is bolstered by minimizing theperceived mental and sensory experiences of animals, encouraging the
+opposite thinking makes it harder to justify eating an animal who
+would be perceived as more capable of pain and su ﬀering. Preventing
+the denigration of farm animals o ﬀers promise, but there are still nu-
+merous questions to explore such as how long these e ﬀects persist and
+why these manipulations did not transfer to cows ( Wang & Basso,
+2019 ).
+Interventions may also target the mechanisms that allow meat ea-
+ters to prevent experiencing MRCD in the ﬁrst place. When it comes to
+attitudes
+and behavior toward eating meat, individuals act very dif-
+ferently as citizens than they do as customers ( Schröder & McEachern,
+2004 ;Te Velde et al., 2002 ;Verbeke, Pérez-Cueto, de Barcellos,
+Krystallis, & Grunert, 2010). As citizens, they value farmed animalwelfare, desire better treatment for animals, and want greater trans-
+parency and assistance in making purchasing decisions ( Knight et al.,
+2003 ;Miele, 2010, pp. 1– 16;Te Velde et al., 2002 ;Vanhonacker et al.,
+2007 ). They may even vote in support of referendums mandating more
+humane treatment of farmed animals. As consumers though, in-dividuals do not want to be reminded of the life and death of animals orH. Rothgerber Appetite 146 (2020) 104511
+11their welfare when shopping ( Mayﬁeld et al., 2007; Miele, 2010 , pp.
+1–16). They are able to divert their own attention away from the moral
+consequences of their purchasing behavior at little psychological cost
+(Hestermann, Le Yaouanq, & Treich, 2018 ).
+This suggests a couple of actions. Ballot initiatives may not only
+achieve favorable legislative outcomes, they may make animal welfare
+salient to citizens –increasing their MRCD –and in turn, in ﬂuence their
+behavior as consumers. For example, demand for free range eggs rosedramatically during the ballot period in which an initiative called for
+reducing the con ﬁnement of farm animals ( Norwood & Lusk, 2011 ).
+Another approach is to intentionally disrupt dissociation in the grocerystore, as Hoogland et al. (2005) achieved in ﬁnding that reminders of
+the animal origin of meat led to a decrease in meat purchasing for someparticipants. Their manipulation cannot ordinarily be accomplished
+without outside cooperation, but one may speculate that repeated re-
+minders in other media may eventually a ﬀect the consciousness of
+shoppers. Making salient that meat is derived from animals may also berealized by food labels on meat that could also reveal information about
+farm animal treatment, potentially disrupting avoidance and willful
+ignorance in the process. To force individuals to grapple with incon-
+sistencies between their attitudes and values on the one hand and be-
+havior on the other, the present framework would suggest that cam-
+paigns attempt to increase awareness of the conditions under which
+farm animals live and die. Such presentations potentially make it more
+costly to maintain dishonest beliefs (see Hestermann, Le Yaouanq, &
+Treich, 2018; Rabin, 1994) and force individuals to confront that their
+eating behavior and sentiments toward animals are misaligned. They
+also counter a phenomenon whereby meat eaters reject on moral
+grounds many of the speci ﬁc practices involving animals they consume
+(e.g., Miele, 2010, pp. 1– 16;Te Velde et al., 2002 ). Unchecked, these
+expressions seemingly allow individuals to gain moral validation while
+simultaneously eating meat, and their ignorance may allow them to
+evade feelings of hypocrisy.
+Together, these tactics would help make animal welfare stand out as
+a primary ethical concern among consumers, and this transformationmay lead to purchasing patterns more consistent with people's ex-
+pressed a ﬀection toward animals. Research on the ethical consumer
+intention-behavior gap shows that even ethical consumers are quick torationalize unethical purchasing behavior ( Szmigin, Carrigan, &
+McEachern, 2009), but that this changes for the one or two ethicalconcerns embedded into their shopping habits. Consuming in violation
+of these primary ethical concerns creates cognitive dissonance, and
+ethical consumers are in the process of integrating primary issues into
+their shopping habits or have already embedded them into their routine
+choices ( Carrington, Neville, & Whitwell, 2014 ).
+The proposed framework also implies that there is utility in tar-
+geting di ﬀerent MRCD strategies in di ﬀerent populations. In general,
+the present work suggests that the intervention should correspond tothe MRCD prevention or reduction mechanism most likely embraced by
+the target. When trying to reduce meat consumption among those
+whose MRCD is motivated by, or is suspected of being motivated by a
+concern over aversive consequences, the framework speculates that
+appeals should proactively counter beliefs that farm animals lack ca-
+pacity, that meat is necessary for good health, and that consumers play
+no
+responsibility in harming animals. In addition, it would suggest
+exposing MRCD prevention mechanisms that enable individuals topretend that animals are not harmed when they consume meat. Among
+those likely to experience MRCD because of concerns with self-viola-
+tions, the framework o ﬀers that arguments should undermine dichot-
+omization by emphasizing similarities between consumed and non-consumed animals and should remind individuals how eating meat
+violates their notions of themselves, regardless of how much they ex-
+press outrage at other transgressors, ridicule vegetarians, or think of
+other positive actions they have committed.
+When targeting women, those holding values encouraging empathy
+toward animals, and those less attached to eating meat, the frameworksuggests that actors and stakeholders working to decrease meat con-
+sumption should target prevention strategies, speci ﬁcally trying to re-
+mind individuals that they consume regular amounts of meat derivedfrom an animal that is treated inhumanely. Increasing MRCD in this
+population would be predicted to be more likely to lead to behavioral
+change, as the cost of maintaining dishonest beliefs is potentially high,
+and reduction strategies focused on denigrating animals would see-
+mingly be distasteful.
+When targeting men, those holding more conservative attitudes
+discouraging empathy toward animals, and those more committed to
+eating meat, the framework implies that triggering MRCD is likely to
+backﬁre, as such individuals would likely respond with motivated
+perceptions reducing the cognitive dissonance state, resulting in evengreater subsequent meat consumption. Trying to de ﬁne meat eating as
+an immoral activity may, therefore, cause those favorable to it toconsume even more meat. Alternatively, one could venture that it may
+be possible to take advantage of di ﬀerences between conservatives and
+liberals in what domains of morality they value most. While liberalsendorse the harm/care and fairness/reciprocity domains more than
+conservatives do, conservatives value purity/sanctity, among others,
+more than do liberals ( Graham, Haidt, & Nosek, 2009 ). Thus, while
+emphasizing that eating meat is cruel and involves treating animalsunfairly may resonate with liberals, it likely would not with con-
+servatives. To speculate, underscoring how contaminated and polluted
+factory farmed animals are with antibiotics, hormones, unnatural feed,
+and other toxins, and how the industry leads to a contaminated and
+polluted physical environment may o ﬀer greater appeal to con-
+servatives. Appealing to the purity/sanctity moral domain was suc-cessful in in ﬂuencing conservatives to hold more favorable attitudes
+and support for policies on a related domain, protecting the physicalenvironment ( Feinberg & Willer, 2013 ). Another suggestion is to frame
+social change messages about eating meat to conservatives as preser-ving, rather than replacing traditional culture and institutions. Theprotection of animal welfare could be framed as patriotic in that it
+preserves traditional values and highlights the way in which the recent
+industrial practice of factory farming is undesirable compared to older
+farming practices ( Hoﬀarth et al., in press). In general, the framework
+would predict that frames are more likely to succeed with those highlycommitted to eating meat to the extent that they match other values
+held by such individuals and that they provoke as little MRCD as pos-
+sible, lest the intervention potentially increase motivated justi ﬁcations
+and subsequent meat eating.
+5.2. Measuring dissonance reduction
+The MRCD framework not only has implications for stakeholders
+aiming to curtail meat consumption, it has relevance for academic re-
+searchers seeking to understand how individuals make moral decisions
+and rationalize potentially problematic behavior. The framework
+makes it clear that individuals have wide latitude in how they reduce
+MRCD and also o ﬀers an initial step in outlining factors a ﬀecting the
+popularity of these mechanisms. Unfortunately, research activatingMRCD has not allowed participants to express their most preferred
+choice of dissonance reducing mechanism by generating their own re-
+sponses; rather, the options for dissonance reduction are produced a
+priori by the experimenter. Even more problematic, participants are
+typically only given one outlet with which to relieve the cognitive
+dissonance state. The particular dissonance reducing mechanism
+available may not be individuals ’ﬁrst choice, or to speculate, even one
+that would be endorsed in a real-world setting where there may be a
+number of available options.
+When individuals are given multiple ways of alleviating the cogni-
+tive dissonance state, the order in which the MRCD reducing mechan-
+isms
+are presented may be important. For example, following a dis-
+sonance manipulation in Tian et al. (2016) , participants reported less
+willingness to eat beef when it was assessed before but not after aH. Rothgerber Appetite 146 (2020) 104511
+12measure of the perceived capacities of cows. This reaction is under-
+standable given that participants felt tension and arousal, were moti-
+vated to reduce this dissonance, and did not necessarily know what
+questions were coming next. In such a scenario, it seems logical to re-
+duce dissonance the ﬁrst way possible.
+This suggests that methodologically, researchers may need to be
+careful in drawing conclusions from studies in which participants are
+aﬀorded a single way of reducing MRCD. But the di ﬃculty of assessing
+MRCD reduction may not end there, for researchers potentially need tobe careful about interpretations when there are multiple outcomes as-
+sessing dissonance reduction. To speculate, if scores on one measure
+aﬀect scores on the other, the last outcome measured may potentially
+be compromised with in ﬂated or depressed scores depending on its
+relationship to the ﬁrst outcome. When assessing multiple outlets for
+dissonance reduction, therefore, the current framework suggests thatresearchers need to incorporate the order of outcome measure into the
+design and analysis.
+5.3. Seeking behavioral commitment ﬁrst
+InTian et al. (2016) , participants reported lower behavioral com-
+mitment to meat when they were given the opportunity to reduce
+MRCD behaviorally before perceptually. Although more empirical work
+is needed to substantiate this ﬁnding, one interpretation is that when
+ﬁrst given a chance to reduce dissonance behaviorally, individuals do
+so by reporting that they would eat fewer animal products in the future,
+butﬁrst allowing individuals to perceptually reduce their dissonance
+led them in the next instance to report that they would consume moremeat products in the future. Once the perceptual denigration has oc-
+curred, consistency demands that behavior follows.
+For those striving to inhibit meat consumption, the framework
+proposes that if you want individuals to respond to MRCD in a positiveway, it is critical that they immediately be asked to make some beha-
+vioral commitment, or else they may reduce their arousal by percep-
+tually denigrating animals. In the absence of a behavioral commitment,
+then, appeals to vegetarianism or meat reduction will not only be
+neutralized, one may speculate that they may back ﬁre by increasing
+negative sentiment toward animals. Research on the foot-in-the-doorphenomenon ( Freedman & Fraser, 1966 ) implies that it would be wise
+to initially ask for modest behavioral commitment and then subse-quently seek larger changes. Flexitarianism is less threatening than
+vegetarianism is ( Rosenfeld, 2018 ), and such an approach would likely
+be more agreeable and may allow individuals to develop self-e ﬃcacy as
+non-meat eaters, begin to identify themselves as such, and gradually
+build increasing disgust toward meat (see Rozin, Markwith, & Stoess,
+1997 ).
+5.4. Linking MRCD to external factors and the polarizing nature of thesefactors
+In addition to providing insight to researchers interested in mea-
+suring MRCD and to actors tasked with reducing meat consumption, thecurrent framework proposes that MRCD may be connected to and re-
+levant in predicting individuals' reactions to broader societal changes
+implicating meat. It speculates that certain situations (e.g., cost of meat,
+prominence of plant-based substitutes, and campaigns to increase
+awareness of animal su ﬀering) heighten individuals' awareness that
+they are meat eaters and the aversive arousal associated with theireating behavior. The MRCD framework suggests that these situations
+will subsequently trigger motivated processes to reduce this unpleasantcognitive dissonance state, inducing behavioral change in some but
+increasing strategically negative perceptions about animals in other
+individuals. Thus, individuals ’perceptions of animals may be shaped by
+seemingly unrelated outside factors.
+Price of meat . From a classical dissonance perspective, the more
+that something costs psychologically or materially, the more thatindividuals need to justify behavior through strategic perceptions. This
+would suggest that as the price of meat increases, so too would in-
+dividuals ’need to convince themselves that meat is worth it –that
+ it
+tastes delicious, is nutritious –and the more they would need to dis-
+count criticisms such as animal su ﬀering. But this prediction is not
+entirely clear because even when the cost of meat is lowered, the basicsof the meat paradox remain, as opposed to classic dissonance tests of
+increased cost that feature truly low or no cost conditions (e.g., Aronson
+& Mills, 1959).
+Economists who study the meat paradox have reached alternative
+conclusions about the impact of the price of meat ( Hestermann et al.,
+2018 ;Rabin, 1994 ). As meat prices increase, they posit that individuals
+experience less utility for the behavior and purchase less meat. Thisfrees the conscience, lowering the pressure to convince themselves that
+eating meat is morally defensible, which means engaging in less moti-
+vated perceptions defending the practice. That is, the incentives to deny
+the negative consequences of meat consumption shrink. As meat price is
+lowered, however, the bene ﬁts of self-deception increase as do justi ﬁ-
+cations. This proposition needs further testing.
+Prominence of plant-based meat substitutes . The meat substitute
+market reached an estimated $4.63 billion USD in 2018 ( https://www.
+marketsandmarkets.com/PressReleases/meat-substitutes.asp ), and has
+even in ﬂuenced traditionally meat heavy restaurants such as the fast
+food chain Burger King to feature a vegetarian burger option. As al-
+ternatives to meat become more prominent, accessible, and visible,
+some MRCD prevention strategies such as avoidance and dissociation
+become harder to maintain. The framework would speculate that these
+product trends will further exacerbate a decline in meat consumption
+for individuals ambivalent about eating meat and who rely on MRCD
+prevention mechanisms. Conversely, individuals who are more at-
+tached to meat may be predicted to react quite di ﬀerently to the pro-
+minence of plant-based meat substitutes. For such individuals, theseproducts will likely increase MRCD, increasing the need for motivatedperceptions to reduce the cognitive dissonance state, ultimately in-
+creasing meat consumption. One may speculate that committed meat
+eaters would be less likely to purchase these meat alternatives or even
+try them because in doing so, they would be generating more MRCD on
+future occasions when they did consume meat. Experimenting with
+plant-based foods would be an implicit acknowledgment of accepting
+the arguments against meat, and this would be expected to make it
+psychologically more di ﬃcult for these individuals to eat meat in the
+future.
+Campaigns to increase moral awareness of animal su ﬀering .I n
+the last decade, NGO activists have increasingly pursued advertisingcampaigns to increase moral awareness of animal su ﬀering with the
+goal of reducing meat consumption. These inﬂ uence e ﬀorts increase the
+moral costs associated with eating meat. From the perspective of the
+current framework, what is critical about these messages is that they
+heighten collective MRCD –by appealing to the immorality or harm in
+eating meat, they are predicted to cause meat eaters to experiencegreater aversive arousal from their eating behavior. Consistent with the
+activists ’aims, for some individuals, most notably women holding lib-
+eral values and sensitive to animal welfare, the MRCD prompted bythese messages would be expected to likely produce some degree of
+behavioral change, from going completely vegan to reducing meat in-
+take more incrementally. On the other hand, for individuals with
+greater attachment to meat, men holding conservative values and less
+sensitive to animal welfare, the increase in moral pressure and MRCD
+produced by these messages is predicted to most likely be psychologi-
+cally reduced, through motivated cognitions designed to alleviate the
+cognitive dissonance associated with their eating behavior. Such justi-
+ﬁcations in turn are thought to make eating meat feel more compelling
+and legitimate, which in turn is speculated to lead these individuals toconsume more meat. Thus, moralizing meat eating is proposed to have
+the eﬀect
+of polarizing reactions to it: Some will behaviorally reduce
+MRCD by eating less meat, but others will psychologically reduceH. Rothgerber Appetite 146 (2020) 104511
+13MRCD and end up consuming more meat (see Bastian, 2019;H e ﬀerman
+et al., 2018; Rabin, 1994). This proposition awaits empirical tests.
+6. Conclusion
+The subtitle of McWilliams ’(2017) The Modern Savage: Our Un-
+thinking Decision to Eat Animals has it partially correct. Individuals do
+not like to think about the moral complexities involved in eating meat
+and would rather push these considerations aside, lest they risk ex-
+periencing aversive arousal. But if unthinking implies that individuals
+do not expend any mental energy when it comes to eating animals, the
+present work suggests something di ﬀerent. Situations that trigger
+MRCD dictate that individuals think in motivated ways to lessen thecognitive dissonance state. The speci ﬁc perception endorsed depends
+on a number of factors delineated here, but the important point is thatsuch perceptions are not rational or objective. Information-based ap-
+peals to reduce meat consumption may produce behavioral change in
+those receptive to it, but for many individuals these appeals will only
+bolster meat consumption through increased justi ﬁcation. The chal-
+lenge for stakeholders, therefore, is how to properly massage MRCDgiven its polarizing impact.
+References
+Adams, C. (1990). The sexual politics of meat: A feminist vegetarian critical theory. New York:
+Continuum .
+Allen, M. W., Gupta, R., & Monnier, A. (2008). The interactive e ﬀect of cultural symbols
+and human values on taste evaluation. Journal of Consumer Research, 35 , 294 –308.
+Allen, M. W., & Hung Ng, S. (2003). Human values, utilitarian bene ﬁts and identi ﬁcation:
+The case of meat. European Journal of Social Psychology, 33 ,3 7–56.
+Allen, M., Wilson, M., Ng, S., & Dunne, M. (2000). Values and beliefs of vegetarians and
+omnivores. The Journal of Social Psychology, 140 , 405 –423.
+Anderson, M. V., & Henderson, A. J. (2005). Pernicious portrayals: The impact of chil-
+dren ’s attachment to animals of ﬁction on animals of fact. Society and Animals, 13 ,
+297–314.
+Ang, C. S., Chan, N. N., & Singh, L. (2019). A comparison study of meat eaters and non-
+meat eaters on mind attribution and moral disengagement of animals. Appetite, 136 ,
+80–85.
+Aronson, E. (1968). Dissonance theory: Progress and problems. In R. P. Abelson, E.
+Aronson, W. J. McGuire, T. M. Newcomb, M. J. Rosenberg, & P. H. Tannenbaum
+(Eds.). Theories of cognitive consistency: A sourcebook (pp. 5 –27). Chicago: Rand
+McNally .
+Aronson, E., & Mills, J. (1959). The e ﬀect of severity of initiation on liking for a group.
+Journal of Abnormal and Social Psychology, 59 (2), 177 –181.
+Bandura, A. (1990). Selective activation and disengagement of moral control. Journal of
+Social Issues, 46 ,2 7–46.
+Bandura, A. (1999). Moral disengagement in the perpetration of inhumanities. Personality
+and Social Psychology Review, 3 , 193 –209.
+Barkan, R., Ayal, S., & Ariely, D. (2015). Ethical dissonance, justi ﬁcations, and moral
+behavior. Current Opinion in Psychology, 6 (DEC), 157 –161.
+Barr, S. I., & Chapman, G. E. (2002). Perceptions and practices of self-de ﬁned current
+vegetarian, former vegetarian, and nonvegetarian women. Journal of the American
+Dietetic Association, 102 (3), 354 –360.
+Bastian,
+B. (2019). Changing ethically troublesome behavior: The causes, consequences,
+and solutions to motivated resistance. Social Issues and Policy Review, 13 ,6 3–92.
+Bastian, B., & Loughnan, S. (2017). Resolving the meat-paradox: A motivational account
+of morally troublesome behavior and its maintenance. Personality and Social
+Psychology Review, 21 , 278 –299.
+Bastian, B., Loughnan, S., Haslam, N., & Radke, H. (2012). Don't mind meat? The denial of
+mind to animals used for human consumption. Personality and Social Psychology
+Bulletin, 38 , 247 –256.
+Beardsworth, A. D., & Keil, E. T. (1991). Vegetarianism, veganism, and meat avoidance:
+Recent trends and ﬁndings. British Food Journal, 93 ,1 9–24.
+Beardsworth, A., & Keil, T. (1992). The vegetarian option: Varieties, conversions, motives
+and careers. The Sociological Review, 40 , 253 –293.
+Beauvois, J. L., & Joule, R. (1981). Soumission et idéologies: Psychosociologie de la ratio-
+nalisation. Presses universitaires de France.
+Bénabou, R., & Tirole, J. (2016). Mindful economics: The production, consumption, and
+value of beliefs. The Journal of Economic Perspectives, 30 , 141 –164.
+Bilewicz, M., Imho ﬀ, R., & Drogosz, M. (2011). The humanity of what we eat:
+Conceptions of human uniqueness among vegetarians and omnivores. European
+Journal of Social Psychology, 41 , 201 –209.
+Broida, J., Tingley, L., Kimball, R., & Miele, J. (1993). Personality di ﬀerences between
+pro-and anti-vivisectionists. Society and Animals, 1 , 129 –144.
+Buttlar, B., & Walther, E. (2018). Measuring the meat paradox: How ambivalence towards
+meat in ﬂuences moral disengagement. Appetite, 128 , 152 –158.
+Carrington, M. J., Neville, B. A., & Whitwell, G. J. (2014). Lost in translation: Exploring
+the ethical consumer intention –behavior gap. Journal of Business Research, 67 ,2759 –2767 .
+Clark, B., Stewart, G. B., Panzone, L. A., Kyriazakis, I., & Frewer, L. J. (2016). A systematic
+review of public attitudes, perceptions and behaviours towards production diseasesassociated with farm animal welfare. Journal of Agricultural and Environmental Ethics,
+29, 455 –478.
+Coleman, G., & Toukhsati, S. (2006). Consumer attitudes and behaviour relevant to the red
+meat industry. North
+ Sydney NSW: Meat and Livestock Australia Limited.
+Cooper, J. (1971). Personal responsibility and dissonance: The role of foreseen con-
+sequences. Journal of Personality and Social Psychology, 18 , 354 –363.
+Cooper, J. (2007). Cognitive dissonance: 50 years of a classic theory. Sage .
+Cooper, J., & Fazio, R. H. (1984). A new look at dissonance theory. In L. Berkowitz (Vol.
+Ed.), Advances in experimental social psychology: Vol. 17 , (pp. 229 –262). New York:
+Academic Press .
+Cooper, J., & Worchel, S. (1970). Role of undesired consequences in arousing cognitive
+dissonance. Journal of Personality and Social Psychology, 16 , 312 –320.
+Cramer, H., Kessler, C. S., Sundberg, T., Leach, M. J., Schumann, D., Adams, J., et al.
+(2017). Characteristics of Americans choosing vegetarian and vegan diets for healthreasons. Journal of Nutrition Education and Behavior, 49 , 561 –567.
+Dhont, K., & Hodson, G. (2014). Why do right-wing adherents engage in more animal
+exploitation and meat consumption? Personality and Individual Di ﬀerences, 64 ,1 2–17.
+Dhont, K., Hodson, G., Costello, K., & MacInnis, C. C. (2014). Social dominance or-
+ientation connects prejudicial human –human and human –animal relations.
+Personality and Individual Di ﬀerences, 61 , 105 –108.
+Dhont, K., Hodson, G., & Leite, A. C. (2016). Common ideological roots of speciesism and
+generalized ethnic prejudice: The social dominance human –animal relations model
+(SD‐HARM). European Journal of Personality, 30 , 507 –522.
+Dowsett, E., Semmler, C., Bray, H., Ankeny, R. A., & Chur-Hansen, A. (2018). Neutralising
+the meat paradox: Cognitive dissonance, gender, and eating animals. Appetite, 123 ,
+280–288.
+Eldridge, J., & Gluck, J. (1996). Gender di ﬀerences in attitudes toward animal research.
+Ethics & Behavior, 6 , 239 –256.
+European Commission (2006). Special eurobarometer 270. September –October, Available
+online http://ec.europa.eu/public_opinion/archives/ebs/ebs_270_en.pdf , Accessed
+date: 15 January 2018.
+Feinberg, M., & Willer, R. (2013). The moral roots of environmental attitudes.
+Psychological Science, 24 ,5 6–62.
+Festinger, L. (1957). A theory of cognitive dissonance ,Vol.
+ 2. Palo Alto, CA: Stanford
+University press .
+Foer, J. S. (2009). Eating animals. New York, NY: Little, Brown and Company .
+Forestell, C. A., & Nezlek, J. B. (2018). Vegetarianism, depression, and the ﬁve factor
+model of personality. Ecology of Food and Nutrition, 57 , 246 –259.
+Francione, G. L. (2004). Animals –Property or persons? In C. R. Sunstein, & M. C.
+Nussbaum (Eds.). Animal rights: Current debates and new directions . Oxford University
+Press .
+Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door
+technique. Journal of Personality and Social Psychology, 4 , 195 –202.
+Gallup (2018). Snapshot: Few Americans vegetarian or vegan. Gallup . August 1, Retrieved
+from https://news.gallup.com/poll/238328/snapshot-few-americans-vegetarian-
+vegan.aspx?g_source=link_NEWSV9&g_medium=NEWSFEED&g_campaign=item_&g_content=Snapshot%3a%2520Few%2520Americans%2520Vegetarian%2520or
+%2520Vegan .
+Goethals, G. R., & Cooper, J. (1972). Role of intention and postbehavioral consequence in
+the arousal of cognitive dissonance. Journal of Personality and Social Psychology, 23 ,
+292–301.
+Gossard, M. H., & York, R. (2003). Social structural in ﬂuences on meat consumption.
+Human Ecology Review, 1–9.
+Graham, J., Haidt, J., & Nosek, B. A. (2009). Liberals and conservatives rely on di ﬀerent
+sets of moral foundations. Journal of Personality and Social Psychology, 96 , 1029 –1046 .
+Gray, K., Young, L., & Waytz, A. (2012). Mind perception is the essence of morality.
+Psychological Inquiry, 23 (2), 101 –124.
+Graça, J., Calheiros, M. M., & Oliveira, A. (2015). Attached to meat?(Un) Willingness and
+intentions to adopt a more plant-based diet. Appetite, 95 , 113 –125.
+Graça, J., Calheiros, M. M., & Oliveira, A. (2016). Situating moral disengagement:
+Motivated reasoning in meat consumption and substitution. Personality and Individual
+Diﬀerences, 90 , 353 –364.
+Harper, G., & Henson, S. (2001). Consumer concerns about animal welfare and the impact on
+food choice. EU FAIR CT98-3678. Centre for Food Economics Research, The University
+of Reading .
+Herzog, H. (2010). Some we love, some we hate, some we eat: Why it's so hard to think straight
+about animals. New York, NY: HarperCollins .
+Hestermann, 
+N., Le Yaouanq, Y., & Treich, N. (2018). An economic model of the meat
+paradox. Working Papers, 1–29.
+Hoﬀarth, M. R., Azevedo, F., & Jost, J. T. (2019). Political conservatism and the exploitation
+of non-human animals: An application of system justiﬁ cation theory. Group Processes and
+Intergroup Relations (in press) .
+Hoogland, C. T., de Boer, J., & Boersema, J. J. (2005). Transparency of the meat chain in
+the light of food culture and history. Appetite, 45 ,1 5–23.
+Hoshino-Browne, E., Zanna, A. S., Spencer, S. J., Zanna, M. P., Kitayama, S., &
+Lackenbauer, S. (2005). On the cultural guises of cognitive dissonance: The case ofEasterners and Westerners. Journal of Personality and Social Psychology, 89 , 294 –310.
+Iacobbo, K., & Iacobbo, M. (2006). Vegetarians and vegans in America today. Westport, CT:
+Greenwood Publishing Group .
+Jabs, J., Sobal, J., & Devine, C. M. (2000). Managing vegetarianism: Identities, norms and
+interactions. Ecology of Food and Nutrition, 39 (5), 375 –394.
+Joy, M. (2011). Why we love dogs, eat pigs, and wear cows: An introduction to carnism. San
+Francisco, CA: Conari Press .H. Rothgerber
+Appetite 146 (2020) 104511
+14Kalof, L., Dietz, T., Stern, P. C., & Guagnano, G. A. (1999). Social psychological and
+structural in ﬂuences on vegetarian beliefs. Rural Sociology, 64 , 500 –511.
+Kellert, S. R., & Berry, J. K. (1987). Attitudes, knowledge, and behaviors toward wildlife
+as aﬀected by gender. Wildlife Society Bulletin, 15 , 363 –371.
+Kenyon, P. M., & Barker, M. E. (1998). Attitudes towards meat-eating in vegetarian and
+non-vegetarian teenage girls in England –an ethnographic approach. Appetite, 30 ,
+185–198.
+Kitayama, S., Snibbe, A. C., Markus, H. R., & Suzuki, T. (2004). Is there any “free ”choice?
+Self and dissonance in two cultures. Psychological Science, 15 , 527 –533.
+Knight, S., & Barnett, L. (2008). Justifying attitudes toward animal use: A qualitative
+study of people's views and beliefs. Anthrozoös, 21 ,3 1–42.
+Knight, S., Nunkoosing, K., Vrij, A., & Cherryman, J. (2003). Using grounded theory to
+examine people's attitudes toward how animals are used. Society and Animals, 11 ,
+307–327.
+Knight, S., Vrij, A., Cherryman, J., & Nunkoosing, K. (2004). Attitudes towards animal use
+and belief in animal mind. Anthrozoös, 17 ,4 3–62.
+Kriﬂik, L. S., & Yeatman, H. (2005). Food scares and sustainability: A consumer per-
+spective. Health, Risk & Society, 7 ,1 1–24.
+Kubberod, E., et al. (2002b). Gender speci ﬁc preferences and attitudes towards meat.
+Food Quality and Preference, 13 , 285 –294.
+Kubberod, E., Ueland, O., Tronstad, A., & Risvik, E. (2002a). Attitudes toward meat and
+meat-eating among adolescents in Norway: A qualitative study. Appetite, 38 ,5 3–62.
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108 , 480 –498.
+Kunst, J. R., & Haugestad, C. A. P. (2018). The e ﬀects of dissociation on willingness to eat
+meat are moderated by exposure to unprocessed meat: A cross-cultural demonstra-
+tion. Appetite, 120 , 356 –366.
+Kunst, J. R., & Hohle, S. M. (2016). Meat eaters by dissociation: How we present, prepare
+and
+talk about meat increases willingness to eat meat by reducing empathy and
+disgust. Appetite, 105 , 758 –774.
+Lea, E., & Worsley, A. (2001). In ﬂuences on meat consumption in Australia. Appetite, 36 ,
+127–136.
+Linder, D. E., Cooper, J., & Jones, E. E. (1967). Decision freedom as a determinant of the
+role of incentive magnitude in attitude change. Journal of Personality and Social
+Psychology, 6 , 245 –254.
+Loughnan, S., Bastian, B., & Haslam, N. (2014). The psychology of eating animals. Current
+Directions in Psychological Science, 23 , 104 –108.
+Loughnan, S., & Davies, T. (2019). The meat paradox. In K. Dhont, & G. Hodson (Eds.).
+Why people love and exploit animals: Bridging insights from academia and
+advocacy Oxford: Routledge (Taylor & Francis Group Ltd) (in press) .
+Loughnan, S., Haslam, N., & Bastian, B. (2010). The role of meat consumption in the
+denial of moral status and mind to meat animals. Appetite, 55 , 156 –159.
+MacInnis, C. C., & Hodson, G. (2017). It ain't easy eating greens: Evidence of bias toward
+vegetarians and vegans from both source and target. Group Processes & Intergroup
+Relations, 20 (6), 721 –744.
+Maurer, D. (2010). Vegetarianism: Movement or moment: Promoting a lifestyle for cult change.
+Temple University Press .
+Mayﬁeld, L. E., Bennett, R. M., Tranter, R. B., & Wooldridge, M. J. (2007). Consumption
+of welfare-friendly food products in Great Britain, Italy and Sweden, and how it maybe inﬂuenced by consumer attitudes to, and behaviour towards, animal welfare at-
+tributes. International Journal of Sociology of Food and Agriculture, 15 ,5 9–73.
+McKimmie, B. M., Terry, D. J., Hogg, M. A., Manstead, A. S., Spears, R., & Doosje, B.
+(2003). I'm a hypocrite, but so is everyone else: Group support and the reduction ofcognitive dissonance. Group Dynamics: Theory, research, and practice, 7 , 214 –224.
+McWilliams, J. (2017). The modern savage: Our unthinking decision to eat animals. New
+York: St. Martin ’s Press .
+Miele, M. (2010). Report concerning consumer perceptions and attitudes towards farm animal
+welfare Brussels, Belgium: European Animal Welfare Platform.
+Minson, J. A., & Monin, B. (2012). Do-gooder derogation: Disparaging morally motivated
+minorities to defuse anticipated reproach. Social Psychological and Personality Science,
+3(2), 200 –207.
+Monin, B., Sawyer, P. J., & Marquez, M. J. (2008). The rejection of moral rebels:
+Resenting those who do the right thing. Journal of Personality and Social Psychology,
+95,7 6–93.
+Monteiro,
+C. A., Pfeiler, T. M., Patterson, M. D., & Milburn, M. A. (2017). The Carnism
+inventory: Measuring the ideology of eating animals. Appetite, 113 ,5 1–62.
+Neﬀ, R. A., Edwards, D., Palmer, A., Ramsing, R., Righter, A., & Wolfson, J. (2018).
+Reducing meat consumption in the USA: A nationally representative survey of atti-tudes and behaviours. Public Health Nutrition, 21 , 1835 –1844 .
+Norwood, F. B. (2011). The private provision of animal-friendly eggs and pork. American
+Journal of Agricultural Economics, 94 (2), 509 –514.
+Norwood, F. B., & Lusk, J. L. (2011). Compassion, by the pound: The economics of farm
+animal welfare. Oxford University Press .
+OECD (2014). OECD/Food and agriculture organization of the united nations (2014), OECD-
+FAO agricultural outlook 2014 OECD Publishing https://doi.org/10.1787/agr_outlook-
+2014-en . Retrieved from, Accessed date: August 2018.
+Onwezen, M. C., & van der Weele, C. N. (2016). When indi ﬀerence is ambivalence:
+Strategic ignorance about meat consumption. Food Quality and Preference, 52 ,
+96–105.
+O'Connor, K., & Monin, B. (2016). When principled deviance becomes moral threat:
+Testing alternative mechanisms for the rejection of moral rebels. Group Processes &
+Intergroup Relations, 19 (5), 676 –693.
+Paul, E. S. (1996). The representation of animals on children's television. Anthrozoös, 9 ,
+169–181.
+Peden, R., Camerlink, I., Boyle, L., Loughnan, S., Akaichi, F., & Turner, S. (2019). Belief in
+pigs' capacity to su ﬀer: An assessment of pig farmers, veterinarians, students, and
+citizens. Anthrozoös (in press) .Piazza, J. (2019). Why people love animals yet continue to eat them in K. In Dhont &, & G.
+Hodson (Eds.). Why people love and exploit animals: Bridging insights from academia and
+advocacy Oxford: Routledge (Taylor & Francis Group Ltd) (in press) .
+Piazza, J., Ruby, M. B., Loughnan, S., Luong, M., Kulik, J., Watkins, H. M., et al. (2015).
+Rationalizing meat consumption. The 4Ns. Appetite, 91 , 114 –128.
+Plous, S. (1993). Psychological mechanisms in the human use of animals. Journal of Social
+Issues, 49 ,1 1–52.
+Pohjolainen, P., Vinnari, M., & Jokinen, P. (2015). Consumers' perceived barriers to
+following a plant-based diet. British Food Journal, 117 , 1150 –1167 .
+Pollan, M. (2002). An animal's place. The New York Times November 10, 2002 .
+Prättälä, 
+R., Paalanen, L., Grinberga, D., Helasoja, V., Kasmel, A., & Petkeviciene, J.
+(2006). Gender di ﬀerences in the consumption of meat, fruit and vegetables are si-
+milar in Finland and the Baltic countries. The European Journal of Public Health, 17 ,
+520–525.
+Proulx, T., Inzlicht, M., & Harmon-Jones, E. (2012). Understanding all inconsistency
+compensation as a palliative response to violated expectations. Trends in Cognitive
+Sciences, 16 , 285 –291.
+Rabin, M. (1994). Cognitive dissonance and social change. Journal of Economic Behavior &
+Organization, 23 (2), 177 –194.
+Roex, J., & Miele, M. (2005). Farm animal welfare concerns. Consumers, retailers and pro-
+ducers. Cardi ﬀ: School of city and regional planning CardiﬀUniversity Welfare Quality
+Reports no. 1 .
+Rosenfeld, D. (2018). The psychology of vegetarianism: Recent advances and future di-
+rections. Appetite, 131 , 125 –138.
+Rosenfeld, D., Rothgerber, H., & Tomiyama, A. J. (2019). From mostly vegetarian to fully
+vegetarian: Meat avoidance and the expression of social identity. (Unpublished manu-
+script) .
+Rothgerber, H. (2013). Real men don't eat (vegetable) quiche: Masculinity and the jus-
+tiﬁcation of meat consumption. Psychology of Men and Masculinity, 14 , 363 –375.
+Rothgerber, H. (2014a). E ﬀorts to overcome vegetarian-induced dissonance among meat
+eaters. Appetite, 79 ,3 2–41.
+Rothgerber, H. (2014b). A comparison of attitudes toward meat and animals among strict
+and semi-vegetarians. Appetite, 72 ,9 8–105.
+Rothgerber, H. (2015a). Can you have your meat and eat it too? Conscientious omnivores,
+vegetarians, and adherence to diet. Appetite, 84 , 196 –203.
+Rothgerber, H. (2015b). Underlying di ﬀerences between conscientious omnivores and
+vegetarians in the evaluation of meat and animals. Appetite, 87 , 251 –258.
+Rothgerber, H. (2019a). How we love and hurt animals: Considering cognitive dissonance
+in young meat eaters. In G. Hodson, & K. Dhont (Eds.). Why people Love and exploit
+animals: Bridging Insights from Academia and advocacy. Routledge Taylor & Francis
+Group (in press) .
+Rothgerber, H. (2019b). “But I don't eat that much meat: ”Situational underreporting of
+meat consumption by women. Society and Animals, 27 , 150 –173.
+Rothschild, Z. K., & Keefer, L. A. (2017). A cleansing ﬁre: Moral outrage alleviates guilt
+and bu ﬀers threats to one's moral identity. Motivation and Emotion, 41 (2), 209 –229.
+Rothschild, Z. K., Landau, M. J., Sullivan, D., & Keefer, L. A. (2012). A dual-motive model
+of scapegoating: Displacing blame to reduce guilt or increase control. Journal of
+Personality and Social Psychology, 102 (6), 1148 –1163 .
+Rozin, P. (2007). Food and eating. In S. Kitayama, & D. Cohen (Eds.). The handbook of
+cultural psychology (pp. 391 –416). New York, NY: The Guilford Press .
+Rozin, P., Hormes, J. M., Faith, M. S., & Wansink, B. (2012). Is meat male? A quantitative
+multimethod framework to establish metaphoric relationships. Journal of Consumer
+Research, 39 (3), 629 –643.
+Rozin, P., Markwith, M., & Stoess, C. (1997). Moralization and becoming a vegetarian:
+The transformation of preferences into values and the recruitment of disgust.Psychological Science, 8 (2), 67 –73.
+Ruby, M. B., & Heine, S. J. (2012). Too close to home. Factors predicting meat avoidance.
+Appetite, 59 ,4 7–52.
+Santos, M., & Booth, D. (1996). In ﬂuences on meat avoidance among British students.
+Appetite, 27 , 197 –205.
+Schröder, M. J., & McEachern, M. G. (2004). Consumer value con ﬂicts surrounding
+ethical food purchase decisions: A focus on animal welfare. International Journal of
+Consumer Studies, 28 , 168 –177.
+Šedová, I., Slovák, Ľ., & Je žková, I. (2016). Coping with unpleasant knowledge: Meat
+eating among students of environmental studies. Appetite, 107 , 415 –424.
+Serpell, J. (1986). The company of animals: A study of human-animal relationships.
+Cambridge University Press .
+Shalvi, S., Gino, F., Barkan, R., & Ayal, S. (2015). Self-serving justi ﬁcations: Doing wrong
+and feeling moral. Current Directions in Psychological Science, 24 (2), 125 –130.
+Signicom (1997). Dierenwelzijn in de bio-industrie. Amsterdam: Signicom .
+Singer, 
+P. (2002). Animal liberation. New York, NY: Harper Collins .
+Smith, T. W., Marsden, P., Hou, M., & Kim, J. (2017). General social surveys, 1972 –2016
+[machine-readable data ﬁle]. Sponsored by national science foundation. –NORC Ed. –
+Chicago, IL: National OpinionResearch center [producer]Storrs, CT: The Roper Centerfor PublicOpinion Research, University of Connecticut. [distributor]. Retrieved from
+http://www3.norc.org/GSS_Website/Download/SPSS_Format/ .
+Statista (2016). Meat consumption and vegetarianism in Europe –statistics and facts.
+Retrieved from https://www.statista.com/topics/3345/meat-consumption-and-
+vegetarianism-in-europe/ .
+Steele, C. M. (1988). The psychology of self-a ﬃrmation: Sustaining the integrity of the
+self. In L. Berkowitz (Vol. Ed.), Advances in experimental social psychology: Vol. 21 , (pp.
+261–302). San Diego, CA: Academic Press .
+Stewart, K., & Cole, M. (2009). The conceptual separation of food and animals in child-
+hood. Food, Culture and Society, 12 , 457 –476.
+Stone, J., & Cooper, J. (2001). A self-standards model of cognitive dissonance. Journal of
+Experimental Social Psychology, 37 , 228 –243.H. Rothgerber
+Appetite 146 (2020) 104511
+15Stroebe, W., & Diehl, M. (1981). Conformity and counterattitudinal behavior: The e ﬀect
+of social support on attitude change. Personality and Social Psychology Bulletin, 14 ,
+136–144.
+Sunstein, C. (2004). Introduction: What are animal rights? In C. R. Sunstein, & M. C.
+Nussbaum (Eds.). Animal rights: Current debates and new directions . Oxford University
+Press .
+Sykes, G. M., & Matza, D. (1957). Techniques of neutralization: A theory of delinquency.
+American Sociological Review, 22 , 664 –670.
+Szmigin, I., Carrigan, M., & McEachern, M. G. (2009). The conscious consumer: Taking a
+ﬂexible approach to ethical behaviour. International Journal of Consumer Studies, 33 ,
+224–231.
+Te Velde, H., Aarts, N., & Van Woerkum, C. (2002). Dealing with ambivalence: Farmers'
+and consumers' perceptions of animal welfare in livestock breeding. Journal of
+Agricultural and Environmental Ethics, 15 (2), 203 –219.
+The Sentience Institute (2017). New poll shows majority uncomfortable with animal
+farming despite eating turkeys for Thanksgiving. November, 20, Retrieved from
+https://www.sentienceinstitute.org/press/animal-farming-attitudes-survey-2017 .
+Tian, Q., Hilton, D., & Becker, M. (2016). Confronting the meat paradox in di ﬀerent
+cultural contexts: Reactions among Chinese and French participants. Appetite, 96 ,
+187–194.
+Time/CNN/Harris Interactive Poll (2002). Do you consider yourself a vegetarian?
+Available at: http://i.timeinc.net/time/covers/1101020715/poll/images/poll_body.gif.
+Turner, J. C., Hogg, M. A., Oakes, P. J., Reicher, S. D., & Wetherell, M. S. (1987).
+Rediscovering the social group: A self-categorization theory. Oxford, UK: Blackwell .
+Vaidis, D. C., & Bran, A. (2018). Some prior considerations about dissonance to under-
+stand its reduction: Comment on McGrath (2017). Social and Personality Psychology
+Compass, 12 (9), e12411 .
+Vanhonacker, F., Verbeke, W., Van Poucke, E., & Tuyttens, F. (2007). Segmentation based
+on consumers' perceived importance and attitude toward farm animal welfare.
+International Journal of Sociology of Agriculture and Food, 15 ,9 1–107.
+Verbeke, W., Pérez-Cueto, F. J., de Barcellos, M. D., Krystallis, A., & Grunert, K. G. (2010).
+European citizen and consumer attitudes and preferences regarding beef and pork.
+Meat Science, 84 , 284 –292.
+Vollum, S., Bu ﬃngton-Vollum, J., & Longmire, D. R. (2004). Moral disengagement and
+attitudes about violence toward animals. Society and Animals, 12 , 209 –235.
+Wang, F., & Basso, F. (2019). “Animals are friends, not food ”: Anthropomorphism leads to
+less favorable attitudes toward meat consumption by inducing feelings of antici-patory guilt. Appetite, 153–173.
+Worsley, 
+A., Wang, W., & Ridley, S. (2015). Australian adults' knowledge of Australian
+agriculture. British Food Journal, 117 (1), 400 –411.
+Zane, D. M., Irwin, J. R., & Reczek, R. W. (2016). Do less ethical consumers denigrate
+more ethical consumers? The e ﬀect of willful ignorance on judgments of others.
+Journal of Consumer Psychology, 26 , 337 –349.H. Rothgerber Appetite 146 (2020) 104511
+16
